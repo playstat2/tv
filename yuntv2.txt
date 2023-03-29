@@ -1,6 +1,4 @@
-﻿💞水运精选,#genre#
-西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
-影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
+﻿💞曹凹精选,#genre#
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 CHC动作电影,http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1#http://117.148.179.157/PLTV/88888888/224/3221231580/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232945/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8#http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
@@ -144,7 +142,6 @@ CHANNELV 内置解码,http://jydx.jdshipin.com:8081/hls/88/index.m3u8$内置解�
 华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 华视,http://2023.stream-link.org/playlist/cts_zy
 华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
-民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 民视,http://23.237.10.66:16334
 民视,http://107.151.203.111:2209/135/us50.php?id=msk
 民视,http://137.175.36.206:8188/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
@@ -198,11 +195,6 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 中天综合,http://2023.stream-link.org/playlist/cti_zh
 中天综合,http://107.151.203.111:2209/135/us50.php?id=ztz
 中天综合,http://23.237.10.66:16372
-中天娱乐台,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
-中天娱乐台,http://www.yshmzmc.top/gtjm.php?id=live1023
-中天娱乐台,http://38.60.38.65:5588/wm2268.php?id=ctient
-中天娱乐台,http://pull-l3-cny.douyincdn.com/third/stream-37e4951f0608d79a74ebed4ab2da462a.m3u8
-有线新闻台,http://2022.stream-link.org/playlist/cable_news
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -1108,18 +1100,3 @@ CCTV8[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/322122563
 CCTV9[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
 CCTV9[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
 CCTV10[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-CCTV10[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
-CCTV10[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
-CCTV11[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-CCTV12[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
-CCTV12[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
-CCTV13[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-CCTV14[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
-CCTV14[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
-CCTV14[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
-CCTV15[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-CCTV16[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
-CCTV16[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226233/index.m3u8
-CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
-CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
-CCTV17[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
