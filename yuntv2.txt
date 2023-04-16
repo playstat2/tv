@@ -871,3 +871,4 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei15
 大同市电影,#genre#
 三国之见龙卸甲,https://vip.ffzy-play.com/20221017/1541_794f5a67/index.m3u8
 狄仁杰之通天帝国,https://v.foxmov.com/20211030/J8iLyUEX/index.m3u8
+少林寺,https://vip.lz-cdn7.com/20230124/13738_72bb3070/index.m3u8
