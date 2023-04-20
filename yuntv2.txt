@@ -874,6 +874,10 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei15
 🐼台山有线,#genre#
 翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 华丽翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+中天综合,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
+ViuTV6,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
+莲花卫视,https://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+
 大同市电影,#genre#
 三国之见龙卸甲,https://vip.ffzy-play.com/20221017/1541_794f5a67/index.m3u8
 狄仁杰之通天帝国,https://v.foxmov.com/20211030/J8iLyUEX/index.m3u8
