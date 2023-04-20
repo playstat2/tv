@@ -872,6 +872,7 @@ Liberty Кино Микс 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/151
 Liberty Мульт 4K,http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
 BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 🐼台山有线,#genre#
+翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 华丽翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 大同市电影,#genre#
 三国之见龙卸甲,https://vip.ffzy-play.com/20221017/1541_794f5a67/index.m3u8
