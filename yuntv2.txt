@@ -875,8 +875,9 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei15
 翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 华丽翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-星卫电彩台.https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
+星卫电彩台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
 美亚电影台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
+美亚电影台,https://epg.pw/stream/42fef13b569198db1d508f4272e0769c3fed1dc5fd4fcdca995a8531bd979d57.m3u8
 东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
 卫视电影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
