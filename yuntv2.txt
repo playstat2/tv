@@ -878,6 +878,7 @@ J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 星卫电彩台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
 美亚电影台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
 美亚电影台,https://epg.pw/stream/42fef13b569198db1d508f4272e0769c3fed1dc5fd4fcdca995a8531bd979d57.m3u8
+天映经典台,https://epg.pw/stream/45b1c16c5995f554090bc43d30ae24f766bbea0a95efa44a534b87f94302066d.m3u8
 东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8
 卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
 卫视电影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
