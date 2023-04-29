@@ -875,9 +875,9 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei15
 翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 华丽翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
-星卫电彩台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
-美亚电影台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
+星卫电影台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
 美亚电影台,https://epg.pw/stream/42fef13b569198db1d508f4272e0769c3fed1dc5fd4fcdca995a8531bd979d57.m3u8
+天映电影,https://epg.pw/stream/03e8a935c1646f10ea36804315a7928c1da42b2b3b101f5d80b3e33039cabf02.m3u8
 天映经典台,https://epg.pw/stream/45b1c16c5995f554090bc43d30ae24f766bbea0a95efa44a534b87f94302066d.m3u8
 AXN台湾,https://epg.pw/stream/dccad441248377e7eca62b0a44a5a469886c922efc1f2d6d8caf19f7aa246fbb.m3u8
 HBO台湾,https://epg.pw/stream/6cad49ad7514cb24cbd3bf18f0f9c2c0f96b7309630ac4d70d812b39b408e1ae.m3u8
