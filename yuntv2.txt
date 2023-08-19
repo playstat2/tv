@@ -900,5 +900,5 @@ ViuTV6,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
 狄仁杰之通天帝国,https://v.foxmov.com/20211030/J8iLyUEX/index.m3u8
 少林寺,https://vip.lz-cdn7.com/20230124/13738_72bb3070/index.m3u8
 笑傲江湖,https://cdn.zoubuting.com/20210715/wh3ceFJF/index.m3u8
-笑傲江湖2东方不败,https://v.foxmov.com/20211030/YHMRXHBk/index.m3u8
+笑傲江湖2东方不败,https://s9.fsvod1.com/20230727/71hYhh6j/index.m3u8
 东方不败之风云再起,https://s9.fsvod1.com/20230727/23wpGASu/index.m3u8
