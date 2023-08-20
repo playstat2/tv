@@ -883,6 +883,7 @@ TVB星河台,http://r.jdshipin.com/sXuuD
 J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
 功夫台,mitv://generationnexxxt.com:19806/4c3f27dd7eb44be289557ccfb7c410b3
 VIU TV,http://r.jdshipin.com/vSJvl
+龙祥电影,mitv://generationnexxxt.com:19806/02356cbc048c48fdabe13c27c4681255
 龙祥时代,https://epg.pw/stream/b7ef686d91b8746f89114de71163b0a358eaefda7bfe469a286d9b0adefe6b18.m3u8
 星卫电影台,https://epg.pw/stream/f8f4af660fca9e379d343d0b8eee7b11ed2387261bc2888e16a55373f16e8ef5.m3u8
 美亚电影台,https://epg.pw/stream/509c08f54c80aff2a8e23438043a612249a66fb054f9e036153eea54349e20ea.m3u8
