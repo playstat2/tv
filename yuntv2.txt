@@ -38,6 +38,7 @@ J2,http://120.132.122.244:59845/hls/81/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 有线18,rtmp://59.124.75.138:1935/sat/hk041
+天映经㤟,mitv://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
 天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 天映经典,http://27.47.71.97:808/hls/62/index.m3u8
 天映频道,http://51.79.82.208:16024
