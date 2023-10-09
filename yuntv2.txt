@@ -161,10 +161,10 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
 河北卫视,https://cntv.sbs/tv?auth=231005&id=hbws
 河北卫视,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000
-江西卫祝,https://cntv.sbs/tv?auth=231005&id=jxws
+江西卫视,https://cntv.sbs/tv?auth=231005&id=jxws
 江西卫视,https://live.v1.mk/api/ghyx.php?id=JiangXiHD_6000
 天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
-重庆卫祝,https://cntv.sbs/tv?auth=231005&id=cqws
+重庆卫视,https://cntv.sbs/tv?auth=231005&id=cqws
 重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
 黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
 吉林卫视,https://cntv.sbs/tv?auth=231005&id=jlws
@@ -175,6 +175,11 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 三沙卫视,https://cntv.sbs/tv?auth=231005&id=ssws
 康巴卫视,https://cntv.sbs/tv?auth=231005&id=kbws
 海峡卫视,https://cntv.sbs/tv?auth=231005&id=hxws
+青海卫视,https://cntv.sbs/tv?auth=231005&id=qhws
+内蒙古卫视,https://cntv.sbs/tv?auth=231005&id=nmgws
+山东卫视,https://cntv.sbs/tv?auth=231005&id=sdws
+山西卫视,https://cntv.sbs/tv?auth=231005&id=sxiws
+甘肃卫视,https://cntv.sbs/tv?auth=231005&id=gsws
 星空卫视台,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 CHANNELV 内置解码,http://jydx.jdshipin.com:8081/hls/88/index.m3u8$内置解码
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
