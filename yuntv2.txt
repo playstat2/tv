@@ -180,6 +180,9 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 山东卫视,https://cntv.sbs/tv?auth=231005&id=sdws
 山西卫视,https://cntv.sbs/tv?auth=231005&id=sxiws
 甘肃卫视,https://cntv.sbs/tv?auth=231005&id=gsws
+新疆卫视,https://cntv.sbs/tv?auth=231005&id=xjws
+云南卫视,https://cntv.sbs/tv?auth=231005&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=231005&id=gzws
 星空卫视台,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 CHANNELV 内置解码,http://jydx.jdshipin.com:8081/hls/88/index.m3u8$内置解码
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
