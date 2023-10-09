@@ -69,7 +69,7 @@ CCTV4,https://cntv.sbs/tv?auth=231005&id=cctv4
 CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 CCTV5,https://cntv.sbs/tv?auth=231005&id=cctv5
 CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
-CCTV5+,https://cntv.sbs/tv?auth=231005&id=cctv5+
+CCTV5+,https://cntv.sbs/tv?auth=231005&id=cctv5p
 CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 CCTV6,https://cntv.sbs/tv?auth=231005&id=cctv6
 CCTV6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
