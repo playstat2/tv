@@ -972,6 +972,7 @@ ViuTV6,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
 笑傲江湖2东方不败,https://s9.fsvod1.com/20230727/71hYhh6j/index.m3u8
 东方不败之风云再起,https://s9.fsvod1.com/20230727/23wpGASu/index.m3u8
 方世玉93版,https://v4.cdtlas.com/20220605/VWyIXKIf/index.m3u8
+方世玉2,https://m3u8.kuaifan.tv/videos/20230712/64ad6942b87ca857fa48dcfd/a24d65/index.m3u8
 蛮荒的童话,https://vod1.bdzybf7.com/20220501/4BMHxV8o/index.m3u8
 少林小子,https://v4.cdtlas.com/20220605/B8jmNNWI/index.m3u8
 少林小子,https://vip.lz-cdn1.com/20220506/4552_78c2a547/index.m3u8
