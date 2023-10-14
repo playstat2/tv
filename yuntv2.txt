@@ -1,10 +1,10 @@
 ﻿💞曹家精选,#genre#
 洪真英-活着,https://vd4.bdstatic.com/mda-pcjz4dhsrm2xj5pm/sc/cae_h264/1679362398055378730/mda-pcjz4dhsrm2xj5pm.mp4
 洪真英-活着,https://vd4.bdstatic.com/mda-mjs3nbq8qkcbcpnv/720p/h264/1635302158468970895/mda-mjs3nbq8qkcbcpnv.mp4
-缘份,https://vd4.bdstatic.com/mda-nbqdn09158i3v8t7/hd/cae_h264_delogo/1645782597749041565/mda-nbqdn09158i3v8t7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1686719667-0-0-94a76e01cb06d9602829189a0702614d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=4&logid=2667918267&vid=2635540046106044335&abtest=all.m3u8
-爱念永留,https://vdse.bdstatic.com//c812adad0db174d55dbf5e8eb1cac9e2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-08-21T10%3A58%3A53Z%2F-1%2Fhost%2Fa6d65cef46cdb828e601c9a51185bcda50c1b4dac81ebad7d8eeb8e5e29cac06
-爱念永留,https://vdse.bdstatic.com//9ae293a03b9ba281d6f61cee4c1f1292.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-08-10T17%3A20%3A27Z%2F-1%2Fhost%2F6b0f52afedbc8c6f46c4f446212b048b9d705a23c3b2f98156913c20ea308071
-倾情,https://vdse.bdstatic.com//b4a65789500393ef46f027f9341eb7d1.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-08-11T06%3A30%3A09Z%2F-1%2Fhost%2Fb25070df2650e7e6bf3c2de5d4e273b058a243c2a793479e41d4c326cad2fc21
+陈松伶-缘份,https://vd4.bdstatic.com/mda-nbqdn09158i3v8t7/hd/cae_h264_delogo/1645782597749041565/mda-nbqdn09158i3v8t7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1686719667-0-0-94a76e01cb06d9602829189a0702614d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=4&logid=2667918267&vid=2635540046106044335&abtest=all.m3u8
+陈松伶-爱念永留,https://vdse.bdstatic.com//c812adad0db174d55dbf5e8eb1cac9e2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-08-21T10%3A58%3A53Z%2F-1%2Fhost%2Fa6d65cef46cdb828e601c9a51185bcda50c1b4dac81ebad7d8eeb8e5e29cac06
+陈松伶-爱念永留,https://vdse.bdstatic.com//9ae293a03b9ba281d6f61cee4c1f1292.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-08-10T17%3A20%3A27Z%2F-1%2Fhost%2F6b0f52afedbc8c6f46c4f446212b048b9d705a23c3b2f98156913c20ea308071
+何宝生-倾情,https://vdse.bdstatic.com//b4a65789500393ef46f027f9341eb7d1.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-08-11T06%3A30%3A09Z%2F-1%2Fhost%2Fb25070df2650e7e6bf3c2de5d4e273b058a243c2a793479e41d4c326cad2fc21
 大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
 广东卫视,https://php.17186.eu.org/gdtv/web/lizhi.m3u8
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
