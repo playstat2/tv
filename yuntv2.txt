@@ -16,7 +16,7 @@
 广东影视,https://php.17186.eu.org/gdtv/web/gdys.m3u8
 广东国际,https://php.17186.eu.org/gdtv/web/gdgj.m3u8
 广东体育,https://php.17186.eu.org/gdtv/web/gdty.m3u8
-
+翡翠台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-430e29fb-9581-4404-ac71-c1a44b5cac4c/index.m3u8?by=yeslivetv.com
 经典剧集台,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt121398615.m3u8
 经典功夫台,,http://pull-l3-cny.douyincdn.com/live/stream-112175tvb8080221221240fiyt12136593.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
