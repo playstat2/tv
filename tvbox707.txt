@@ -83,6 +83,7 @@
 {"key":"csp_xpath_dy888","name":"🦋电影888","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/dy888.json"},
 {"key":"csp_xpath_aidi","name":"🦋爱迪影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/aidi.json"},
 {"key":"csp_xpath_lezhutv","name":"🦋乐猪TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/lezhutv.json"},
+{"key":"喜马拉雅","name":"👂喜马拉雅","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/ximalaya.js"},
 {"key":"csp_xpath_juhuang","name":"🦋剧荒TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/juhuang.json"},
 {"key":"csp_xpath_doujiaow","name":"🦋豆角网","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/doujiaow.json"},
 {"key":"csp_xpath_duboku","name":"🦋独播库","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/duboku2.json"},
