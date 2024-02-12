@@ -27,7 +27,7 @@
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
-        },                    
+        },   
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀香雅情线路"
@@ -79,7 +79,11 @@
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🐹运输车(有跑马灯)"
-        },         
+        },
+        {
+            "url": "https://raw.githubusercontent.com/playstat2/tv/main/tvbox707.txt",
+            "name": "🐹水运影视)"
+        },
         {
             "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx",
             "name": "🐹夜猫子(有跑马灯)"
