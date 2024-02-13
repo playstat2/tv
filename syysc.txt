@@ -24,7 +24,7 @@
             "name": "🚀肥猫线路"
         },                    
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
             "name": "🚀蜂蜜线路"
         },                                                        
         {
