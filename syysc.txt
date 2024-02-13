@@ -1,7 +1,10 @@
 ﻿{
     "urls": [
-        {
-            "url": "http://yydsys.top/duo",
+       {
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
+            "name": "🏡OK水运"
+        },
+{"url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
         {
