@@ -1,8 +1,8 @@
 ﻿{
     "urls": [
        {
-            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt",
-            "name": "🏡OK水运"
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+            "name": "🏡蜂蜜备"
         },
 {"url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
