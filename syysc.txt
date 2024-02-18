@@ -4,6 +4,12 @@
             "url": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
             "name": "🏡蜂蜜备"
         },
+﻿{
+    "urls": [
+       {
+            "url": "https://77url.com/nXDIg",
+            "name": "🏡潇洒2备"
+        },
 {"url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
