@@ -3,7 +3,7 @@
 
 "sites": [
 {"key":"TVB云播","name":"🚛TVB云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/TVB.json"},
-{"key":"csp_xml___TVB云播","name":"🐝TVB云播"   ,"type":1,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml ","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"csp_xml___TVB云播","name":"🐝TVB云播"   ,"type":3,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml ","playUrl":"","searchable":1,"quickSearch":1},
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "csp_Buka"       ,"name":"🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
