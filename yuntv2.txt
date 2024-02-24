@@ -64,7 +64,8 @@ J2,http://120.132.122.244:59845/hls/81/index.m3u8
 天映频道,http://51.79.82.208:16024
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 🎈水运央视,#genre#
-CCTV1,https://cntv.sbs/tv?auth=231005&id=cctv1
+CCTV1,
+http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
 CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://cntv.sbs/tv?auth=231005&id=cctv2
