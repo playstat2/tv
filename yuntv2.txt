@@ -74,7 +74,7 @@ CCTV3,https://cntv.sbs/tv?auth=231005&id=cctv3
 CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 CCTV4,https://cntv.sbs/tv?auth=231005&id=cctv4
 CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5,https://cntv.sbs/tv?auth=231005&id=cctv5
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 CCTV5+,https://cntv.sbs/tv?auth=231005&id=cctv5p
 CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
