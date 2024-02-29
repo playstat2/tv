@@ -91,8 +91,10 @@ CCTV6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
 CCTV6,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 CCTV7,https://cntv.sbs/tv?auth=231005&id=cctv7
 CCTV7,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV8,https://cntv.sbs/tv?auth=231005&id=cctv8
 CCTV8,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV9,https://cntv.sbs/tv?auth=231005&id=cctv9
 CCTV9,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 CCTV10,https://cntv.sbs/tv?auth=231005&id=cctv10
