@@ -996,6 +996,7 @@ ViuTV6,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041310451.m3u8
 三国之见龙卸甲,https://vod1.bdzybf7.com/20220613/cehhUPYO/index.m3u8
 三国之见龙卸甲,https://vip.ffzy-play.com/20221017/1541_794f5a67/index.m3u8
 伦文叙老点柳先开,https://v3.suonizy-youku.com/202312/02/xVt9RR6Q452/video/index.m3u8
+狄仁杰之通天帝国,https://v3.dious.cc/20220401/xNbqSvpF/index.m3u8
 狄仁杰之通天帝国,https://vip.lzcdn2.com/20220528/7778_ceaa7871/index.m3u8
 少林寺,https://vip.kuaikan-cdn4.com/20240220/A2SzJdPa/1793kb/hls/l6z2QNK2.ts
 少林寺,https://v3.dious.cc/20220330/8XLLvB3S/index.m3u8
