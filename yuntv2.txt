@@ -75,6 +75,7 @@ CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV2,https://cntv.sbs/tv?auth=231005&id=cctv2
 CCTV2,http://cm.wshls.homecdn.com/live/11ecc.m3u8
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+cctv3,http://cfss.cc/Cf/bst/cctv3-35327.m3u8
 CCTV3,http://61.170.81.240/liveali-tpgq.cctv.cn/live/cctv3.m3u8
 CCTV3,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv3.m3u8
 CCTV3,https://cntv.sbs/tv?auth=231005&id=cctv3
