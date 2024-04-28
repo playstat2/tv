@@ -93,6 +93,7 @@ CCTV5,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
 CCTV5,http://120.7.86.53:808/hls/5/index.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5+,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+CCTV6,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574302.m3u8
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV6,https://cntv.sbs/tv?auth=231005&id=cctv6
 CCTV6,http://cm.wshls.homecdn.com/live/11ee8.m3u8
