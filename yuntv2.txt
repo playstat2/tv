@@ -972,6 +972,7 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei15
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 华丽翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+24,https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/57d1a22064f5d85712b20dab/89a610ef8f184c9397193267ff661ee2/f624fec49dadc88894ebeff1d974eab019af7757/session/63439bb2-da00-471b-ab93-af395a9afd9f/media.m3u8?aid=51c2f628b440bd797900051f&uid=Al5fOBbMGM6SBinlwvCc6SLSeL8JCeV0&sid=n1nhHb2cSWQhqmioKvGE8ra5rd8iNzI8&pid=Q0NInGGw7pjWDQ0jwCOjWDdxHfZ2N6Xb&ref=https%3A%2F%2Fwww.24horas.cl%2F&without_cookies=false&listenerid=&dnt=true&es=cl-a3-p-e-av11.cdn.mdstrm.com&ote=1714874454390&ot=8Kq4I1Y0lB606HL0hENKsQ&proto=https&pz=cl
 13,https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/d8be2c40-c8cd-4f1d-9f96-acc7ee4459a0:SCL/variant/e31aeb70eac9b23fc9a2644d799c43ea/bandwidth/545600.m3u8
 TVB星河(粤),mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
 TVB星河台,http://r.jdshipin.com/sXuuD
