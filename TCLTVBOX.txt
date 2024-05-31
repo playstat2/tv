@@ -211,6 +211,7 @@
 {"key":"csp_xml___每天看看","name":"🐝每天看看"   ,"type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___红牛资源","name":"🐝红牛资源"   ,"type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___飘花资源","name":"🐝飘花资源"   ,"type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"百度云采集","name":"百度云","type":1,"searchable":1,"quickSearch":1,"api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list","playUrl":"https://jx.jxbdzyw.com/m3u8/?url="},
 {"key":"csp_xml___百度资源","name":"🐝百度资源"   ,"type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___飞速资源","name":"🐝飞速资源"   ,"type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___飞速资源2","name":"🐝飞速资源2"  ,"type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
