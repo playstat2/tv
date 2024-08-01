@@ -189,6 +189,7 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
 湖南卫视,https://cntv.sbs/tv?auth=231005&id=hnws
 湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视,http://124.116.183.146:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://cntv.sbs/tv?auth=231005&id=zjws
 浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 东方卫视,https://cntv.sbs/tv?auth=231005&id=dfws
