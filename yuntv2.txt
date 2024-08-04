@@ -90,6 +90,7 @@ CCTV4,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv5
 4.m3u8
 CCTV4,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
 CCTV4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+CCTV5,http://gslbservzqhsw.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
 CCTV5,http://tvbox6.icu/tv/migu.php?id=cctv5
 CCTV5,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
 CCTV5,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
