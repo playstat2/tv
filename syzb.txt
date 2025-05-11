@@ -1,4 +1,3 @@
-不相信二维码,#genre#
 💞曹家精选,#genre#
 洪真英-活着,https://vd4.bdstatic.com/mda-pcjz4dhsrm2xj5pm/sc/cae_h264/1679362398055378730/mda-pcjz4dhsrm2xj5pm.mp4
 洪真英-活着,https://vd4.bdstatic.com/mda-mjs3nbq8qkcbcpnv/720p/h264/1635302158468970895/mda-mjs3nbq8qkcbcpnv.mp4
@@ -47,7 +46,6 @@ CCTV1综合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231
 CCTV2财经,p3p://167.114.175.6:55331/5fe15a4400093f55773aac0c576366b8
 CCTV3综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
 CCTV4国际,p3p://167.114.175.6:55331/61244d9c0006885d64b1b7591f6c12a0
-CCTV5体育(高清),http://itv.iptv1688.top:2016/itv.php?id=CCTV5
 CCTV5体育(备用),p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
 CCTV5+体育赛事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
 CCTV6电影,p3p://167.114.175.6:55331/62c1fdfa0006353aa8bc33e5054a54db
