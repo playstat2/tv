@@ -73,6 +73,7 @@ CCTV14少儿(咪咕),http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2a
 CCTV14少儿,p3p://167.114.175.6:55331/600b718b0006dd9f1ba3d45468b1762e
 CCTV15音乐(咪咕),http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV15音乐,p3p://167.114.175.6:55331/63235101000d828724e40a062bb62592
+CCTV16奥林匹克(咪咕),http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV16奥林匹克,p3p://167.114.175.6:55331/632350a5000deee324e2a2bc22a37dd9
 CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 🎈水运卫视,#genre#
