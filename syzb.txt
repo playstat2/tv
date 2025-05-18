@@ -126,6 +126,7 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 神州新聞,p3p://167.114.175.6:55331/655e74f7000953678a2be18968661f5f
 CHC高清电影,p3p://167.114.175.6:55331/63ec4caf00020428e445513c2d902fdb
+CHC家庭影院(咪咕),http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC家庭影院,p3p://167.114.175.6:55331/63ec4d000006b5ebe4468ed8604807ac
 CHC动作电影(咪咕),http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC动作电影,p3p://167.114.175.6:55331/63ec4d4200074d64e44790cb67ae7b20
