@@ -130,6 +130,7 @@ CHC家庭影院(咪咕),http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUP
 CHC家庭影院,p3p://167.114.175.6:55331/63ec4d000006b5ebe4468ed8604807ac
 CHC动作电影(咪咕),http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CHC动作电影,p3p://167.114.175.6:55331/63ec4d4200074d64e44790cb67ae7b20
+CHC影迷电影(咪咕),http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 新视觉 HD,p3p://167.114.175.6:55331/63ec4d870003e9f2e4489d7821254fbb
 五星体育,p3p://167.114.175.6:55331/63ec4dc200075675e44984ca52f86245
 兵团卫视,p3p://167.114.175.6:55331/63ed2c99000b902be7affdb21e970038
