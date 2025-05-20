@@ -42,6 +42,7 @@ HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 新加坡亚太台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 🎈水运央视,#genre#
+CCTV1综合(咪咕),https://tv.iill.top/migu/cctv1
 CCTV1综合(咪咕),http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV1综合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231
 CCTV2财经(咪咕),http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
