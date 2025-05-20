@@ -101,7 +101,6 @@
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     }
-  {
         
   
       ]
