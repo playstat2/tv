@@ -97,6 +97,7 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 🎈水运卫视,#genre#
 东方卫视(咪咕),http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 东方卫视,p3p://167.114.175.6:55331/62d4a9f2000909c9f1ab0ea900607a3c
+北京卫视,p2p://108.181.32.169:45672/64260fe100097b88ee078b124b8f3f9d
 北京卫视,p3p://167.114.175.6:55331/5fe1591b000dc3b377362512452546e3
 湖南卫视,p3p://167.114.175.6:55331/62c2e1e3000b6afaac367b6247e40f8a
 江苏卫视(咪咕),http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
