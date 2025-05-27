@@ -288,6 +288,7 @@ TVB 星河 TH,p3p://167.114.175.6:55331/65b64d75000447ebe14fe06c46057e05
 TVB Live Shows TH,p3p://167.114.175.6:55331/65b64e9b000ba1a0e1545ebf0a4d7498
 TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 🌈大同市影院,#genre#
+南北醉拳,https://v.cdnlz17.com/20231007/28440_254ed508/index.m3u8
 笑侠楚留香粤,https://vali-ugc.cp31.ott.cibntv.net/65763894D0D347170FA236399/0300200100578047B1840C2D9B7D2FB29BA30D-E84B-7A3B-8AEF-2DC04577713C.mp4?ccode=0501&duration=4942&expire=18000&psid=6f915acb613f6926990bea47cd953e9e41346&ups_client_netip=c9bdc878&ups_ts=1706914158&ups_userid=&utid=6eYVG0JbNnoCAb9xvCg6d8Gj&vid=XMTMzODE3MjQw&vkey=B83f6fae458bd0a9308a959c200c51bcd&eo=0&t=70593c9c7f9e1db&cug=1&fms=fe9831626bdf0507&tr=4943&le=03997e2bdd02bce0a4cdd53336170b83&ckt=5&m_onoff=0&rid=20000000B387A404C43ED4DCBBCDA9D3E3871F3D02000000&type=mp4sd&bc=1&dre=u145&si=611&dst=1&app_ver=1.0.75
 三国之见龙卸甲,https://vod1.bdzybf7.com/20220613/cehhUPYO/index.m3u8
 三国之见龙卸甲,https://vip.ffzy-play.com/20221017/1541_794f5a67/index.m3u8
