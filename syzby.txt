@@ -56,6 +56,7 @@ CCTV3综艺(咪咕),http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE
 CCTV3综艺(咪咕),https://tv.iill.top/migu/cctv3
 CCTV3综艺(咪咕),http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV3综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
+CCTV4国际(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv4&zy.m3u8
 CCTV4国际（咪咕）,
 http://150.138.78.253:10050/migu/631780421?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 CCTV4国际(咪咕),http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
