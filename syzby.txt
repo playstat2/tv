@@ -86,6 +86,7 @@ CCTV8电视剧(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&i
 CCTV8电视剧(咪咕),http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV8电视剧(咪咕),https://tv.iill.top/migu/cctv8
 CCTV8电视剧(咪咕),http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV9纪录片(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv9&zy.m3u8
 CCTV9纪录片(咪咕),http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV9纪录片(咪咕),https://tv.iill.top/migu/cctv9
 CCTV9纪录片(咪咕),http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
