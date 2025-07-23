@@ -110,6 +110,7 @@ CCTV13新闻(咪咕),http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2a
 CCTV13新闻(咪咕),https://tv.iill.top/migu/cctv13
 CCTV13新闻(咪咕),http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV13新闻,p3p://167.114.175.6:55331/632351570006042224e55806316a7512
+CCTV14少儿(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv14&zy.m3u8
 CCTV14少儿(咪咕),http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV14少儿(咪咕),https://tv.iill.top/migu/cctv14
 CCTV14少儿(咪咕),http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
