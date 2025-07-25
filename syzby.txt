@@ -183,7 +183,9 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 海峡卫视(咪咕),http://sport.pendy.dpdns.org/migu/849119120?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 海峡卫视,p3p://167.114.175.6:55331/63ec47390001586de42ffc1a7e1856a6
 贵州卫视,p3p://167.114.175.6:55331/6022140a000e0258740d440853d209b9
+河南卫视(咪咕),https://live.sxrtv.com/iptv/hnws.flv
 河南卫视(咪咕),http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+河南卫视,https://live.sxrtv.com/iptv/hnws.flv
 河南卫视,p3p://167.114.175.6:55331/5fe21fb6000ae57d7a3df1c35db55753
 山西卫视,https://live.sxrtv.com/iptv/sxws.flv
 山西卫视,p3p://167.114.175.6:55331/63ec47dd000dba0fe4327fe92f826ca7
