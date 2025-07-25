@@ -43,7 +43,7 @@ HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡亚太台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-🎈水运央视,#genre#
+🎈水运央视(修复),#genre#
 CCTV1综合(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv1&zy.m3u8
 CCTV1综合(咪咕),http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV1综合(咪咕),https://tv.iill.top/migu/cctv1
@@ -133,7 +133,7 @@ CCTV17农业农村(咪咕),http://sport.pendy.dpdns.org/migu/673168256?token=BCD
 CCTV17农业农村(咪咕),https://tv.iill.top/migu/cctv17
 CCTV17农业农村(咪咕),http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
-🎈水运卫视,#genre#
+🎈水运卫视(修复),#genre#
 东方卫视(咪咕),https://live.sxrtv.com/iptv/dfws.flv
 东方卫视(咪咕),http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 东方卫视,https://live.sxrtv.com/iptv/dfws.flv
