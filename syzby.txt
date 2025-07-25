@@ -198,7 +198,6 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 陕西卫视(咪咕),http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 重庆卫视,https://live.sxrtv.com/iptv/cqws.flv
 重庆卫视,p3p://167.114.175.6:55331/5fe22070000a826a7a40c843077f6b68
-广西卫视,http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=gxws&zy.m3u8
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 广西卫视,p3p://167.114.175.6:55331/602210560009472773fecbad4efa370f
 大湾区卫视(咪咕),http://sport.pendy.dpdns.org/migu/608917627?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
