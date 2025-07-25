@@ -156,7 +156,9 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 山东卫视,p3p://167.114.175.6:55331/5fe2208a000bb11e7a412e17132544de
 黑龙江卫视,https://live.sxrtv.com/iptv/hljws.flv
 黑龙江卫视,p3p://167.114.175.6:55331/6323b2350007630d265fbb91230b76bb
+吉林卫视(咪咕),https://live.sxrtv.com/iptv/jlws.flv
 吉林卫视(咪咕),http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+吉林卫视,https://live.sxrtv.com/iptv/jlws.flv
 吉林卫视,p3p://167.114.175.6:55331/5fe220ab000694027a41adb200196608
 辽宁卫视,p3p://167.114.175.6:55331/5fe2162b000d828b7a18ab7f6c8368be
 河北卫祝,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
