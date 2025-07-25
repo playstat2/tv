@@ -146,6 +146,7 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 江苏卫视(咪咕),http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 江苏卫视,https://live.sxrtv.com/iptv/jsws.flv
 江苏卫视,p3p://167.114.175.6:55331/62ebe68a000867fa4c6ed916192911b0
+天津卫视,https://live.sxrtv.com/iptv/tjws.flv
 天津卫视,p3p://167.114.175.6:55331/5fe21dfd000e7aa37a37380658302908
 深圳卫视,https://live.sxrtv.com/iptv/szws.flv
 深圳卫视,p3p://167.114.175.6:55331/5fe21c150008cdc67a2fc45c52c03e7b
