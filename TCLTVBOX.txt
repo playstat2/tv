@@ -90,7 +90,7 @@
 {"key":"csp_xpath_jpys","name":"🦋极品影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/jpys.json"},
 {"key":"csp_xpath_ddg","name":"🦋达达龟","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"🦋剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/jubaibai.json"},
-{"key":"csp_xpath_独播库","name":"🦋独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/duboku.json"},
+{"key":"csp_xpath_独播库","name":"🦋独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/duboku9.json"},
 {"key":"csp_xpath_ttsp","name":"🦋天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/ttsp.json"},
 {"key":"csp_xpath_Ole","name":"🦋欧乐(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/olevod.json"},
 {"key":"csp_xpath_ctv","name":"🦋冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/liu673cn/mao/main/sub/xpath/chongtmtv.json"},
