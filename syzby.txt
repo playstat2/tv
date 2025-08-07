@@ -66,12 +66,12 @@ CCTV3综艺(咪咕),http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE
 CCTV3综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
 CCTV4国际(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV4
 CCTV4国际(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv4&zy.m3u8
-CCTV4国际（咪咕),http://150.138.78.253:10050/migu/631780421?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+CCTV4国际(咪咕),http://150.138.78.253:10050/migu/631780421?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 CCTV4国际(咪咕),http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV4国际(咪咕),https://tv.iill.top/migu/cctv4
 CCTV4国际(咪咕),http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV4国际,p3p://167.114.175.6:55331/61244d9c0006885d64b1b7591f6c12a0
-CCTV5体育(咪咕)http://61.163.58.168:2024/fhtvxf.php?id=CCTV5
+CCTV5体育(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV5
 CCTV5体育(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv5&zy.m3u8
 CCTV5体育(咪咕),http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV5体育(咪咕),https://tv.iill.top/migu/cctv5
@@ -83,25 +83,30 @@ CCTV5+体育赛事(咪咕),http://sport.pendy.dpdns.org/migu/641886773?token=BCD
 CCTV5+体育赛事(咪咕),https://tv.iill.top/migu/cctv5p
 CCTV5+体育赛事(咪咕),http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV5+体育赛事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
+CCTV6电影(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV6
 CCTV6电影(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv6&zy.m3u8
 CCTV6电影(咪咕),http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV6电影(咪咕),https://tv.iill.top/migu/cctv6
 CCTV6电影(咪咕),http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV6电影,p3p://167.114.175.6:55331/62c1fdfa0006353aa8bc33e5054a54db
+CCTV7军事(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV7
 CCTV7军事(咪咕),https://live.sxrtv.com/iptv/cctv7.flv
 CCTV7军事(咪咕),http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV7军事(咪咕),https://tv.iill.top/migu/cctv7
 CCTV7军事(咪咕),http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV7军事,p3p://167.114.175.6:55331/5fe3e41800087c1581251001631763fa
+CCTV8电视剧(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV8
 CCTV8电视剧(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv8&zy.m3u8
 CCTV8电视剧(咪咕),http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV8电视剧(咪咕),https://tv.iill.top/migu/cctv8
 CCTV8电视剧(咪咕),http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV9纪录片(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV9
 CCTV9纪录片(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv9&zy.m3u8
 CCTV9纪录片(咪咕),http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV9纪录片(咪咕),https://tv.iill.top/migu/cctv9
 CCTV9纪录片(咪咕),http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV9纪录片,p3p://167.114.175.6:55331/600b6ba2000d52801b8cbfda6cd319a2
+CCTV10科教(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV10
 CCTV10科教(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv10&zy.m3u8
 CCTV10科教(咪咕),http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV10科教(咪咕),https://tv.iill.top/migu/cctv10
@@ -392,6 +397,7 @@ TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 中南海,https://vip.lz-cdn.com/20220812/28152_32fb9c87/1000k/hls/mixed.m3u8
 新少林五祖,https://cdn.wls911.com:777/20220506/8faiosy0/index.m3u8
 新少林五祖,https://vip.lz-cdn8.com/20220816/21839_2dbb0f58/index.m3u8
+
 
 
 
