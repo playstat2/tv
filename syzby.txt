@@ -96,6 +96,7 @@ CCTV6电影(咪咕),http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE
 CCTV6电影(咪咕),https://tv.iill.top/migu/cctv6
 CCTV6电影(咪咕),http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV6电影,p3p://167.114.175.6:55331/62c1fdfa0006353aa8bc33e5054a54db
+CCTV7军事(咪咕),https://mursor.ottiptv.cc/migu/673168121.m3u8?migutoken=e3c6d49b2e4a8f801e985cb8c3a94b2225c30916b2039f6501421a0691a308685a4b8836c887f373599974560d84f26b29c5e72d5b59f0be6198bff863865978b3caab49c9a5d695ee4c8b9c52
 CCTV7军事(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV7
 CCTV7军事(咪咕),https://live.sxrtv.com/iptv/cctv7.flv
 CCTV7军事(咪咕),http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -410,6 +411,7 @@ TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 中南海,https://vip.lz-cdn.com/20220812/28152_32fb9c87/1000k/hls/mixed.m3u8
 新少林五祖,https://cdn.wls911.com:777/20220506/8faiosy0/index.m3u8
 新少林五祖,https://vip.lz-cdn8.com/20220816/21839_2dbb0f58/index.m3u8
+
 
 
 
