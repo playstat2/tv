@@ -89,6 +89,7 @@ CCTV5+体育赛事(咪咕),http://sport.pendy.dpdns.org/migu/641886773?token=BCD
 CCTV5+体育赛事(咪咕),https://tv.iill.top/migu/cctv5p
 CCTV5+体育赛事(咪咕),http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV5+体育赛事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
+CCTV6电影(咪咕),https://mursor.ottiptv.cc/migu/624878396.m3u8?migutoken=875f2054386175091f3ab33a96af0cd3cc81605502627a968c0ef5293a39cd5e9eb59eb95a4e6559fe82887c081269329f0a5ce0819edbc6ca5e43be905f461ad8cbf6e45577fc445f99b5e408
 CCTV6电影(咪咕),http://61.163.58.168:2024/fhtvxf.php?id=CCTV6
 CCTV6电影(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv6&zy.m3u8
 CCTV6电影(咪咕),http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -409,6 +410,7 @@ TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 中南海,https://vip.lz-cdn.com/20220812/28152_32fb9c87/1000k/hls/mixed.m3u8
 新少林五祖,https://cdn.wls911.com:777/20220506/8faiosy0/index.m3u8
 新少林五祖,https://vip.lz-cdn8.com/20220816/21839_2dbb0f58/index.m3u8
+
 
 
 
