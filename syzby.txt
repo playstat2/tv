@@ -256,6 +256,7 @@ CHC影迷电影(咪咕),http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUP
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2&t=1753977057&token=a39f0f9e63fda19aa0c3ad360454dd58
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
 珠江台,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&t=1753977057&token=63456c32f5c6c6039c8dbc567d04d962
 珠江台,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
@@ -415,6 +416,7 @@ TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 中南海,https://vip.lz-cdn.com/20220812/28152_32fb9c87/1000k/hls/mixed.m3u8
 新少林五祖,https://cdn.wls911.com:777/20220506/8faiosy0/index.m3u8
 新少林五祖,https://vip.lz-cdn8.com/20220816/21839_2dbb0f58/index.m3u8
+
 
 
 
