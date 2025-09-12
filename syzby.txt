@@ -54,6 +54,7 @@ CCTV4国际(咪咕),https://tv.iill.top/migu/cctv4
 CCTV4国际(咪咕),http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV4国际,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
 CCTV4国际,p3p://167.114.175.6:55331/61244d9c0006885d64b1b7591f6c12a0
+CCTV5体育(咪咕),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/600/index.m3u8?msisdn=202509121155278a908b903d3348b6a3b1e387b83ea88a&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20250912115527&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=123.119.84.37&SecurityKey=20250912115527&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3f9d509c15625cfe0d151607b6ea73d0&ddCalcu=03dfv39a7dwa5ae069bc71056612551cdf0e&sv=10004&ct=android
 CCTV5体育(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv5&zy.m3u8
 CCTV5体育(咪咕),http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV5体育(咪咕),https://tv.iill.top/migu/cctv5
@@ -430,6 +431,7 @@ TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
 🌈密_9269,#genre#
 哪吒之魔童闹海,https://hn.bfvvs.com/play/9avnA8ma/index.m3U8
 测试1_5566,#genre#
+
 
 
 
