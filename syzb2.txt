@@ -1,5 +1,10 @@
 ﻿不要相信打赏,#genre#
 半岛电视,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+💞晓晓测试,#genre#
+凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
+凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
 💞康少精选,#genre#
 洪真英-活着,https://vd4.bdstatic.com/mda-pcjz4dhsrm2xj5pm/sc/cae_h264/1679362398055378730/mda-pcjz4dhsrm2xj5pm.mp4
 洪真英-活着,https://vd4.bdstatic.com/mda-mjs3nbq8qkcbcpnv/720p/h264/1635302158468970895/mda-mjs3nbq8qkcbcpnv.mp4
