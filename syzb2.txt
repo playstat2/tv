@@ -1,6 +1,7 @@
 ﻿不要相信打赏,#genre#
 半岛电视,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 💞晓晓测试,#genre#
+天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 天映电影,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165792
 东森电影台,http://rihou.cc:555/tv/hktv/gzmjhftw
 龙祥时代,http://rihou.cc:555/tv/hktv/tbbgghtw
