@@ -12,6 +12,7 @@ PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
 CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
