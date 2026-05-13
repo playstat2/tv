@@ -1,6 +1,7 @@
 ﻿不要相信打赏,#genre#
 半岛电视,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 💞晓晓测试,#genre#
+天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 天映电影,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165792
 东森电影台,https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
