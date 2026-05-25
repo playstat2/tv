@@ -455,6 +455,7 @@ VIU 6,p3p://167.114.175.6:55331/5fed31e7000736e2a57c8f4c14d55d36
 HOY资讯,p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320
 HOY 77,http://hls.168.us.kg/u/77/master.m3u8
 HOY 78,http://hls.168.us.kg/u/78/master.m3u8
+HOY TV,https://cdn6.163189.xyz/163189/hoy
 HOY TV,p3p://167.114.175.6:55331/62184bc3000cd48f11e47b06202b7e18
 TVB娱乐新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/60.ts
