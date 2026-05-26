@@ -446,6 +446,7 @@ TVB财体资讯,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
 TVB明珠,https://o11.163189.xyz/stream/tvb/mzt/
 TVB明珠,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
 Viu TV,http://r.jdshipin.com/vSJvl
+Viu TV,https://cdn10.163189.xyz/163189/9dede8e5-1578-4eb8-bf64-3c8b1865bbf7/
 Viu TV,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/33.ts
 Viu TV,http://api.kklkwg.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
 Viu TV,p3p://167.114.175.6:55331/611d99820007a67c4a82a3fe3cc749de
