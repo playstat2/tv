@@ -2,6 +2,7 @@
 半岛电视,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 想当年,#genre#
 AsiaFM亚洲粤语音乐台,https://lhttp.qingting.fm/live/15318569/64k.mp3
+AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 💞晓晓测试,#genre#
 天映经典,https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
 天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
