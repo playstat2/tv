@@ -26,6 +26,7 @@ PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
 凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
+文成综合,http://nplay-qukan.cztv.com/live/1757486581311330.m3u8
 CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
@@ -574,6 +575,7 @@ Fight Sports,p3p://167.114.175.6:55331/65a4480e000eb9449aeb1d5a33663b73
 澳视葡语,p3p://167.114.175.6:55331/644ece91000b801a650ee0e442bd0b87
 Animax HK,p3p://167.114.175.6:55331/6506d1a00000a99a33d7555a4b747caa
 青田新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+文成综合,http://nplay-qukan.cztv.com/live/1757486581311330.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 东方影视,p3p://167.114.175.6:55331/63ec504700099c1ae4535ce016284942
 HBO原创,p3p://167.114.175.6:55331/623a6e38000091d497395ce957b27132
