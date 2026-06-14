@@ -432,7 +432,6 @@ CHC影迷电影(咪咕),http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUP
 五星体育,p3p://167.114.175.6:55331/63ec4dc200075675e44984ca52f86245
 兵团卫视,p3p://167.114.175.6:55331/63ed2c99000b902be7affdb21e970038
 🐼台山有线,#genre#
-广东体育,http://74.91.26.218:82/live/cctv5p.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
