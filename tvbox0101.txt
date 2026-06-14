@@ -9,7 +9,6 @@
 {"key":"csp_Kunyu77","name":"『五星资源』","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_xpath_libvio","name":"『LIBVIO』","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1 },
 {"key":"csp_LiteApple","name":"『小苹果』","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{"name":"🏆咖啡|体育","key":"KafLive","type":3,"api":"csp_KafLiveAmns","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"厂长影视","name":"『厂长资源』","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"可过滤“：1}，
 {"key":"csp_Cokemv","name":"『Cokemv』","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1 },
 {"key":"csp_Kuaikan","name":"『快看』","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable": 1},
