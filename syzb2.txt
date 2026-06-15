@@ -16,6 +16,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 龙祥时代,https://smt.1678520.xyz/163189/6963a2247128286b
 龙祥时代,http://220.132.29.248:18089/930e333000d3b978
 龙祥时代,http://rihou.cc:555/tv/hktv/tbbgghtw
+星影台,http://shangshui2.7766.org:9241/0.ts
 爆谷台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -497,6 +498,7 @@ NOW华剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/3
 NOW华剧,http://hls-pull-wicketpw.speedws.com/live/T54mtfnV46CgYjlYrvgcEKyUDBtzjb1daenJuHJ233JV8upmKZ.flv
 NOW华剧,p3p://167.114.175.6:55331/6519bc200001e7b37dbb01f124075086
 NOW剧集,p3p://167.114.175.6:55331/63ed3e1500077d30e7f449055a0846ce
+NOW星影,http://shangshui2.7766.org:9241/0.ts
 NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
 NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
 NOW星影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/40.ts
@@ -638,6 +640,7 @@ TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 PopC,http://pull-vivek.speedws.com/live/aaapopc.flv
+NOW罣影,http://shangshui2.7766.org:9241/0.ts
 NOW星影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
 NOW星影,http://rihou.cc:555/tv/[Bx]Now星影
 NOW爆谷,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
