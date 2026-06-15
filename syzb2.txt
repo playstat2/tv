@@ -17,6 +17,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 龙祥时代,http://220.132.29.248:18089/930e333000d3b978
 龙祥时代,http://rihou.cc:555/tv/hktv/tbbgghtw
 星影台,http://qingyi.7766.org:7003/0.ts
+爆谷台,http://124.244.129.167:7007/0.ts
 爆谷台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
@@ -505,6 +506,7 @@ NOW星影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/4
 NOW星影,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW星影,p3p://167.114.175.6:55331/65423b7b00047dbb1bebd20b45f374d2
 NOW星影,p3p://167.114.175.6:55331/65bf5e010005226704b84f4f048a4148
+NOW爆谷,http://124.244.129.167:7007/0.ts
 NOW爆谷,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/68686868/41.ts
 NOW爆谷,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/41.ts
 NOW爆谷,http://23.237.228.133/live2/baogutai.m3u8
@@ -643,6 +645,7 @@ PopC,http://pull-vivek.speedws.com/live/aaapopc.flv
 NOW罣影,http://qingyi.7766.org:7003/0.ts
 NOW星影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
 NOW星影,http://rihou.cc:555/tv/[Bx]Now星影
+NOW爆谷,http://124.244.129.167:7007/0.ts
 NOW爆谷,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 NOW爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
 凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
