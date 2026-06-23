@@ -15,6 +15,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 东森电影台,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 东森电影台,https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
 东森电影台,http://rihou.cc:555/tv/hktv/gzmjhftw
+龙祥时代,http://75.127.89.169:35441/endday20260630.php?id=545
 龙祥时代,https://smt.1678520.xyz/163189/6963a2247128286b
 龙祥时代,http://220.132.29.248:18089/930e333000d3b978
 龙祥时代,http://rihou.cc:555/tv/hktv/tbbgghtw
