@@ -4,7 +4,9 @@
 AsiaFM亚洲粤语音乐台,https://lhttp.qingting.fm/live/15318569/64k.mp3
 AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 💞晓晓测试,#genre#
-智利13台,https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+智利13R台,https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+智利13T,https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+智利15PBP,https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
 天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
