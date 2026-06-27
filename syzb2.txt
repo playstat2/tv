@@ -7,6 +7,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 智利13R台,https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 智利13T,https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 智利15PBP,https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
+智利Channel,https://v2.tustreaming.cl/chilechannel/index.m3u8
 温州永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
