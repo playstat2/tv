@@ -8,7 +8,6 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 智利13T,https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 智利15PBP,https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 智利Channel,https://v2.tustreaming.cl/chilechannel/index.m3u8
-温州永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
 天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
@@ -16,6 +15,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 天映电影,https://o11.163189.xyz/stream/live/typd/
 天映电影,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165792
 五星体育,https://cdn15.163189.xyz/163189/wxty
+东森美洲,http://jp.gxdx.org/relay_temp.php?t=addad9220dcb4a5822a683a0898be35aa7d2
 东森电影台,http://75.127.89.169:35441/endday20260630.php?id=527
 东森电影台,https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 东森电影台,https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
