@@ -2126,9 +2126,7 @@
 
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
 
-    }
-
-   },
+        },
         {
             "name": "YY轮播",
             "type": 0,
