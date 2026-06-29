@@ -2280,33 +2280,6 @@
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
 
     },
-
-    {
-
-      "name": "江西电信",
-
-      "type": 0,
-
-      "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Fdianxin8.txt?ref=master",
-
-      "ua": "okhttp/3.15",
-
-      "playerType": 1,
-
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-
-    },
-   },
-        {
-            "name": "YY轮播",
-            "type": 0,
-            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "okHttp/Mod-1.5.0.0"
-        }
-    ],
-
     {
 
       "name": "江西移动",
@@ -2533,6 +2506,5 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-        }
         }
     ]
