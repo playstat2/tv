@@ -2500,5 +2500,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-        }
+       }
+}
     ]
