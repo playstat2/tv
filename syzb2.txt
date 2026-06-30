@@ -46,8 +46,10 @@ CCTV-2HD,http://75.127.89.169:35441/endday20260630.php?id=3
 CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-3HD,http://75.127.89.169:35441/endday20260630.php?id=5
 CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV-4HD,http://69.30.245.50/live/cctv4.m3u8
 CCTV-4HD,http://75.127.89.169:35441/endday20260630.php?id=7
 CCTV-4HD,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV-5HD,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5HD,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5HD,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV-5HD,http://75.127.89.169:35441/endday20260630.php?id=9
