@@ -57,6 +57,7 @@ CCTV-5HD,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5HD,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5HD,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV-5HD,http://75.127.89.169:35441/endday20260630.php?id=9
+CCTV-5HD(备用),http://112.194.199.151:7788/641886683
 CCTV-5+HD,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-6HD,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-7HD,http://107.150.60.122/live/cctv7hd.m3u8
