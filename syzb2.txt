@@ -36,6 +36,7 @@ PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
 凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰资讯,https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
