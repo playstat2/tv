@@ -56,6 +56,7 @@ CCTV-3HD,http://69.30.245.50/live/cctv3.m3u8
 CCTV-3HD,http://75.127.89.169:35441/endday20260630.php?id=5
 CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3HD(备用),http://112.194.199.151:7788/624878271
+CCTV-4HD,https://cdn.qd.je/163189.php?id=cctv4
 CCTV-4HD,http://69.30.245.50/live/cctv4.m3u8
 CCTV-4HD,http://69.30.245.50/live/cctv4.m3u8
 CCTV-4HD,http://75.127.89.169:35441/endday20260630.php?id=7
