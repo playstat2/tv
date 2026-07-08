@@ -1,7 +1,6 @@
 ﻿{
   "spider": 
 "https://cnb.cool/fish2018/xs/-/git/raw/main/spider.jar",
-"https://gitee.com/qqlan/lan/raw/master/钓鱼/清风/qf.jar",
   "wallpaper": "https://tc.666150.xyz/i/2025/06/07/j3vfyu.png",
   "logo":"./aishang.png?ref=master",
   "sites": [
