@@ -1,6 +1,6 @@
 ﻿{
 
-  "spider": "https://gitee.com/qqlan/lan/raw/master/钓鱼/清风/qf.jar",
+  "spider": "https://raw.githubusercontent.com/playstat2/tv/refs/heads/main/qf.jar",
 
   "wallpaper": "https://tc.666150.xyz/i/2025/06/07/j3vfyu.png",
 
