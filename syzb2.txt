@@ -517,6 +517,7 @@ TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
 TVB Plus,p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1
+TVB无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 TVB无线新闻,https://cdn6.163189.xyz/163189/wxxwt
 TVB无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 TVB无线新闻,https://cdn6.101.qzz.io/163189/wxxw
