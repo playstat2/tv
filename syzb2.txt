@@ -548,6 +548,7 @@ TVB娱乐新闻,p3p://167.114.175.6:55331/5fe7f68d000e73d9910d2a86341258f7
 KTSF26,p3p://167.114.175.6:55331/653e4cda0007743f0c8fade86d132b26
 TVB经典,https://o11.163189.xyz/stream/live/tvbc/
 TVB经典,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
+TVB功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
 TVB功夫台,https://cdn6.163189.xyz/163189/yzwx
 TVB功夫台,https://cdn6.101.qzz.io/163189/yzwx
 TVB功夫台,p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803
