@@ -559,6 +559,7 @@ TVB星河(粤),http://rihou.cc:555/tv/[Pd]无线星河
 TVB星河(粤),http://r.jdshipin.com/Voac4
 TVB星河(粤),p3p://167.114.175.6:55331/5fdee23d000b670a6d96428e4c334643
 TVB亚洲综艺,p3p://167.114.175.6:55331/63108c86000a543bdb95705579fa26ad
+NOW新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻,p3p://167.114.175.6:55331/653e4f3d0003bdbf0c98ffaf583a6e3a
