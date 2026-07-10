@@ -514,6 +514,7 @@ TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
+TVB PLus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
 TVB Plus,p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1
