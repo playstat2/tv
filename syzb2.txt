@@ -12,6 +12,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 智利UCV,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 西班牙DW,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 天映经典,http://cdn10.123.rr.kg/163189/ccm/
+天映经典,https://live.kilvn.com/iptv.m3u"
 天映经典,https://cdn.qd.je/163189/ccm
 天映经典,https://cdn.qd.je/163189/ccm2
 天映经典,https://cdn.qd.je/163189.php?id=ccm
@@ -764,6 +765,7 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 天映电影,http://pull-vivek.speedws.com/live/aaatypd.flv
 天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
+天映经典,https://live.kilvn.com/iptv.m3u"
 天映经典,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 龙祥时代,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQsilXP7R7vrttApoprEBxK2-CCx_u1xjj4vEJ8zFIkwHWUDaVl2dKP5coSwjRk2Y-UHVP8HVJ_37hr3se-l9pUXT1E-Rj5DOMkWvBgV5HGgZMOpuktjWCvborJtzZ5C2ccHGjN_1l0VlRsmcywUJAIKeXTQNekOltALBSsQjKzAQ7TvR7aXxqJDmVHYdAkaLhg.m3u8?u=1756878715
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
