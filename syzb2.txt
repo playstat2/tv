@@ -13,6 +13,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 西班牙DW,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 天映经典,http://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://cdn.qd.je/163189/ccm
+天映经典,https://cdn.qd.je/163189/ccm2
 天映经典,https://cdn.qd.je/163189.php?id=ccm
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
@@ -506,11 +507,13 @@ CHC影迷电影(咪咕),http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUP
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,https://cdn2.163189.xyz/163189/gdty
+广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 珠江台,http://107.150.60.122/live/gdzj.m3u8
 珠江台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
+珠江台,https://cdn.qd.je/163189/gdzj
 珠江台,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
@@ -528,6 +531,7 @@ TVB无线新闻,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
 TVB财体资讯,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
 TVB明珠,https://o11.163189.xyz/stream/tvb/mzt/
 TVB明珠,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
+Viu TV,https://cdn.qd.je/163189/viu
 Viu TV,http://r.jdshipin.com/vSJvl
 Viu TV,https://cdn10.163189.xyz/163189/9dede8e5-1578-4eb8-bf64-3c8b1865bbf7/
 Viu TV,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/33.ts
@@ -541,18 +545,23 @@ VIU 6,p3p://167.114.175.6:55331/5fed31e7000736e2a57c8f4c14d55d36
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 HOY资讯,p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320
 HOY 77,http://hls.168.us.kg/u/77/master.m3u8
+HOY 78,https://cdn.qd.je/163189/hoy78
 HOY 78,https://cdn.163189.xyz/163189/hoy78
 HOY 78,http://hls.168.us.kg/u/78/master.m3u8
+HOY TV,https://cdn.qd.je/163189/hoy
 HOY TV,https://cdn6.163189.xyz/163189/hoy
 HOY TV,p3p://167.114.175.6:55331/62184bc3000cd48f11e47b06202b7e18
+TVB娱乐新闻,https://cdn.qd.je/163189/wxxwt
 TVB娱乐新闻,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐新闻,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/60.ts
 TVB娱乐新闻,p3p://167.114.175.6:55331/5fe7f68d000e73d9910d2a86341258f7
 黄金翡翠台,p3p://167.114.175.6:55331/653e49c20006c60f0c8397f7771b1b7b
 KTSF26,p3p://167.114.175.6:55331/653e4cda0007743f0c8fade86d132b26
+TVB经典,https://cdn.qd.je/163189/tvbc
 TVB经典,https://o11.163189.xyz/stream/live/tvbc/
 TVB经典,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
 TVB功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
+TVB功夫台,https://cdn.qd.je/163189/yzwx
 TVB功夫台,https://cdn6.163189.xyz/163189/yzwx
 TVB功夫台,https://cdn6.101.qzz.io/163189/yzwx
 TVB功夫台,p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803
@@ -564,6 +573,7 @@ TVB星河(粤),http://r.jdshipin.com/Voac4
 TVB星河(粤),p3p://167.114.175.6:55331/5fdee23d000b670a6d96428e4c334643
 TVB亚洲综艺,p3p://167.114.175.6:55331/63108c86000a543bdb95705579fa26ad
 NOW新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+NOW新闻,https://cdn.qd.je/163189/now
 NOW新闻,https://cdn.163189.xyz/163189/now
 NOW新闻,http://hls.168.us.kg/u/332/master.m3u8
 NOW新闻,p3p://167.114.175.6:55331/653e4f3d0003bdbf0c98ffaf583a6e3a
@@ -674,8 +684,10 @@ AXN台湾,p3p://167.114.175.6:55331/6258ddc5000ee8a40e1bc8f50dec545c
 彩昌影剧,p3p://167.114.175.6:55331/621de2ed000a255d27ba994346c66a7c
 亚洲美食,p3p://167.114.175.6:55331/62c9a44500000cd3c69dc74b77c62c82
 纬来电影,p3p://167.114.175.6:55331/62c860e50008ea96c1ae9a96599c6947
+TVB 1 US,https://cdn.qd.je/163189/tvb1
 TVB 1 US,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVB 1 US,p3p://167.114.175.6:55331/63efe07e000c1db2f23eb46a4e00518a
+TVB J1 US,https://cdn.qd.je/163189/j1
 TVB J1 US,https://6.cdn.loc.cc/163189.php?id=j1
 TVB J1 US,p3p://167.114.175.6:55331/63efe0de000858baf2402a646c573e1b
 TVB Drama us,https://cdn.qd.je/163189/tvbd
@@ -704,6 +716,7 @@ Astro Aura,p3p://167.114.175.6:55331/61375df1000aeb31af289f004f670c2c
 Astro Arena,p3p://167.114.175.6:55331/5fe7e8d70000ca5290d79816405b4a78
 Astro小太阳,p3p://167.114.175.6:55331/5fe73a6e0002c79c8e2e4e6b5f402a1d
 天映高清(ID),p3p://167.114.175.6:55331/6471b17d00006ecded54c93b1ea4486b
+TVB 华丽台,https://cdn.qd.je/163189/hlfct
 TVB 华丽台,https://o11.163189.xyz/stream/live/jade/
 TVB 华丽台,p3p://167.114.175.6:55331/64ee3cb2000a26c8d3d2192c252a0aba
 天映频道(ID),p3p://167.114.175.6:55331/64e863a40000ec0abcfa63ab62e510cb
