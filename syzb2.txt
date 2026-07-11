@@ -728,8 +728,7 @@ TVB 星河 TH,p3p://167.114.175.6:55331/65b64d75000447ebe14fe06c46057e05
 TVB Live Shows TH,p3p://167.114.175.6:55331/65b64e9b000ba1a0e1545ebf0a4d7498
 TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 🐼台山AKTV,#genre#
-TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB功夫台,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 TVB功夫台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 翡翠台,http://pull-vivek.speedws.com/live/aaajade.flv
