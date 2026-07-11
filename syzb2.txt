@@ -56,6 +56,7 @@ PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰美洲,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500958.ts
 凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
 文成综合,http://nplay-qukan.cztv.com/live/1757486581311330.m3u8
 CCTV-1HD,http://69.30.245.50/live/cctv1.m3u8
