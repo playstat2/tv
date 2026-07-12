@@ -538,6 +538,7 @@ TVB无线新闻,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 TVB无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 TVB无线新闻,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
 TVB财体资讯,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
+TVB明珠,https://cdn.qd.je/163189/mzt
 TVB明珠,https://o11.163189.xyz/stream/tvb/mzt/
 TVB明珠,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
 Viu TV,https://cdn.qd.je/163189/viu
