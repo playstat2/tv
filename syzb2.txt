@@ -34,6 +34,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 龙祥时代,https://smt.1678520.xyz/163189/6963a2247128286b
 龙祥时代,http://220.132.29.248:18089/930e333000d3b978
 龙祥时代,http://rihou.cc:555/tv/hktv/tbbgghtw
+美亚电影台,http://173.208.234.146/live/mymovie.m3u8
 美亚电影台,https://iptv.852851.xyz/l/UZHm3fj1a8FJ8elo_gEFmFgISajk2ED1oZ1GXyoeJwgslpUqpYEubCQadOaXsdSJ/index.m3u8
 美亚电影台,http://75.127.89.169:35441/endday20260630.php?id=716
 星影台,http://173.208.234.146/live/nowxy.m3u8
@@ -615,6 +616,7 @@ NOW Golf 2,p3p://167.114.175.6:55331/65ac341b0001d490b9dd02ac4c2c28a0
 NOW Golf 3,p3p://167.114.175.6:55331/65ac34bf000aaf51b9df85914abe0ec4
 黄金华剧台,p3p://167.114.175.6:55331/652970de00011277bb14dcd76e301cc0
 HBO(粤),p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
+美亚电影,http://173.208.234.146/live/mymovie.m3u8
 美亚电影(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
 凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
 凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
@@ -643,6 +645,7 @@ Cinemax HK,p3p://167.114.175.6:55331/65b1767d00058cdcce68527c3131148e
 天映频道(国语),https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 天映频道(国语),p3p://167.114.175.6:55331/6471b0bb00011e09ed51d397629e4f55
 天映频道(国语),p3p://167.114.175.6:55331/65bf5a9a0005aa9d04ab0515203f3b8b
+美亚电影(国),http://173.208.234.146/live/mymovie.m3u8
 美亚电影(国),p3p://167.114.175.6:55331/64c3653f0007f6812c7970122ff43531
 天映经典(粤),http://74.91.26.218:82/live/tyjd.m3u8
 龙祥电影(粤),p3p://167.114.175.6:55331/63375cce0008451773313a26199f3191
@@ -768,6 +771,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
+美亚电影台,http://173.208.234.146/live/mymovie.m3u8
 美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
 翡翠剧集台,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 天映电影,http://pull-vivek.speedws.com/live/aaatypd.flv
