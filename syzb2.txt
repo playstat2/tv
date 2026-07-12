@@ -36,9 +36,11 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 龙祥时代,http://rihou.cc:555/tv/hktv/tbbgghtw
 美亚电影台,https://iptv.852851.xyz/l/UZHm3fj1a8FJ8elo_gEFmFgISajk2ED1oZ1GXyoeJwgslpUqpYEubCQadOaXsdSJ/index.m3u8
 美亚电影台,http://75.127.89.169:35441/endday20260630.php?id=716
+星影台,http://173.208.234.146/live/nowxy.m3u8
 星影台,https://live.kilvn.com/iptv.m3u"
 星影台,http://75.127.89.169:35441/endday20260630.php?id=178
 星影台,http://qingyi.7766.org:7003/0.ts
+爆谷台,http://173.208.234.146/live/nowbg.m3u8
 爆谷台,https://live.kilvn.com/iptv.m3u"
 爆谷台,http://75.127.89.169:35441/endday20260630.php?id=173
 爆谷台,http://124.244.129.167:7007/0.ts
@@ -524,7 +526,7 @@ TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
-TVB PLus,http://rihou.cc:555/tv/[Pd]Plus综合
+TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
 TVB Plus,p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1
@@ -594,6 +596,7 @@ NOW华剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/3
 NOW华剧,http://hls-pull-wicketpw.speedws.com/live/T54mtfnV46CgYjlYrvgcEKyUDBtzjb1daenJuHJ233JV8upmKZ.flv
 NOW华剧,p3p://167.114.175.6:55331/6519bc200001e7b37dbb01f124075086
 NOW剧集,p3p://167.114.175.6:55331/63ed3e1500077d30e7f449055a0846ce
+NOW星影,http://173.208.234.146/live/nowxy.m3u8
 NOW星影,http://qingyi.7766.org:7003/0.ts
 NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
 NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
@@ -601,6 +604,7 @@ NOW星影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/4
 NOW星影,http://23.237.228.133/live2/xingyingtai.m3u8
 NOW星影,p3p://167.114.175.6:55331/65423b7b00047dbb1bebd20b45f374d2
 NOW星影,p3p://167.114.175.6:55331/65bf5e010005226704b84f4f048a4148
+NOW爆谷,http://173.208.234.146/live/nowbg.m3u8
 NOW爆谷,http://124.244.129.167:7007/0.ts
 NOW爆谷,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/68686868/41.ts
 NOW爆谷,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/41.ts
@@ -737,9 +741,11 @@ TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 PopC,http://pull-vivek.speedws.com/live/aaapopc.flv
+NOW星影,http://173.208.234.146/live/nowxy.m3u8
 NOW星影,https://live.kilvn.com/iptv.m3u"
 NOW星影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
 NOW星影,http://rihou.cc:555/tv/[Bx]Now星影
+NOW爆谷,http://173.208.234.146/live/nowbg.m3u8
 NOW爆谷,https://live.kilvn.com/iptv.m3u"
 NOW爆谷,http://124.244.129.167:7007/0.ts
 NOW爆谷,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
