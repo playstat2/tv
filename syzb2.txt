@@ -745,6 +745,7 @@ TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 🐼台山AKTV,#genre#
 TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
+华丽翡翠台,https://cdn.qd.je/163189/hlfct
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 PopC,http://pull-vivek.speedws.com/live/aaapopc.flv
 NOW星影,http://173.208.234.146/live/nowxy.m3u8
