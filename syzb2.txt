@@ -756,6 +756,7 @@ NOW爆谷,https://live.kilvn.com/iptv.m3u"
 NOW爆谷,http://124.244.129.167:7007/0.ts
 NOW爆谷,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 NOW爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
+凤凰中文台,http://cdn6.123.rr.kg/163189/fhzw
 凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文台,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
