@@ -72,6 +72,7 @@
 { "key": "丫丫资源", "name": "丫丫资源",  "type": 1,"api":"https://cj.yayazy.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1        },
 { "key": "好好资源", "name": "好好资源", "type":1,"api":"https://haohuazy.com/api.php/provide/vod/",            "searchable": 1,            "quickSearch": 1        },
 { "key": "极速资源",  "name": "极速资源",            "type": 1,            "api": "https://jszyapi.com/api.php/provide/vod/at/json",            "searchable": 1,            "quickSearch": 1        }, 
+{"key":"星辰影院","name":"🪐星辰┃[秒播]","type":3,"api":"./js/星辰影院.js"},{"key":"官采","name":"🎫官采┃[采集]","type":1,"api":"https://cj.jusj.top/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
 {"key":"豪华资源","name":"豪华资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"神马资源","name":"神马资源","type":1,"api":"https://img.smdyw.top/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"虎牙资源","name":"虎牙资源","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
