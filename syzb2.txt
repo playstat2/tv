@@ -39,6 +39,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 美亚电影台,http://173.208.234.146/live/mymovie.m3u8
 美亚电影台,https://iptv.852851.xyz/l/UZHm3fj1a8FJ8elo_gEFmFgISajk2ED1oZ1GXyoeJwgslpUqpYEubCQadOaXsdSJ/index.m3u8
 美亚电影台,http://75.127.89.169:35441/endday20260630.php?id=716
+纬来电影,http://www.kaniptv.cn/uadl.php?etoken=wzeJEa8vKDsqdMPpSIoJqFPqa%2B%2FFT6I2GMWQjlBlTv%2FdGYt6lWwc6f3vga%2FSyciTwKdTYUYzsnU7hMnVCOHXw9WR9vQaiCN74rgSzYSJD7CisBxq7BshF4YsrSN06w3kd89e3m4mtdtQ%2FuFL3fI3M2Pi7jwBpud7JqVs5FENcVOwnaYsDt%2FzaFVLvT%2Ft%2FagUfa8QAvYgTmwVkmlVUJJyEKObaAuwgLmXu%2Fe9YuaDDQy2%2FrP%2FWmAmId%2B2vFXgQzio%2FvAglL%2Bq69nhVAbWai64wU22YF44dOzyu9aV87RhD6f2RgRAcIgy%2F8erT0mra5A7I6h1RaTo3dqlu8k0nqNK%2Bw%3D%3D
 星影台,http://173.208.234.146/live/nowxy.m3u8
 星影台,https://live.kilvn.com/iptv.m3u"
 星影台,http://75.127.89.169:35441/endday20260630.php?id=178
