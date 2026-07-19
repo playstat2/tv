@@ -526,6 +526,7 @@ CHC影迷电影(咪咕),http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUP
 广东体育,https://cdn.qd.je/163189/gdty
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://go.bkpcp.top/mg/cctv5
 广东体育,http://119.29.142.81:4022/udp/239.77.0.112:5146
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 珠江台,http://107.150.60.122/live/gdzj.m3u8
