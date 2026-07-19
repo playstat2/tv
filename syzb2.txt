@@ -748,6 +748,10 @@ TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 TVB功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
 TVB1,https://tv.media4u.top:443/live/media4u/media4u/591674
 TVBJ1,https://tv.media4u.top:443/live/media4u/media4u/730121
+TVB DRAMA,https://tv.media4u.top:443/live/media4u/media4u/433200
+TVBe,https://tv.media4u.top:443/live/media4u/media4u/402157
+TVBS,https://tv.media4u.top:443/live/media4u/media4u/254801
+TVB ASIA,https://tv.media4u.top:443/live/media4u/media4u/150443
 华丽翡翠台,https://cdn.qd.je/163189/hlfct
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 PopC,http://pull-vivek.speedws.com/live/aaapopc.flv
