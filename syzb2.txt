@@ -774,9 +774,11 @@ TVB Live Shows TH,p3p://167.114.175.6:55331/65b64e9b000ba1a0e1545ebf0a4d7498
 TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
 🐼台山AKTV,#genre#
 TVB翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
+TVB翡翠台,https://cdn6.cc.cd/163189/fct
 TVB功夫台,http://rihou.cc:555/tv/[Pd]无线功夫
 TVB1,https://cdn6.cc.cd/163189/tvb1
 TVB1,https://tv.media4u.top:443/live/media4u/media4u/591674
+TVBJ1,https://cdn6.cc.cd/163189/j1
 TVBJ1,https://tv.media4u.top:443/live/media4u/media4u/730121
 TVB DRAMA,https://tv.media4u.top:443/live/media4u/media4u/433200
 TVBe,https://tv.media4u.top:443/live/media4u/media4u/402157
