@@ -762,6 +762,7 @@ Astro Aura,p3p://167.114.175.6:55331/61375df1000aeb31af289f004f670c2c
 Astro Arena,p3p://167.114.175.6:55331/5fe7e8d70000ca5290d79816405b4a78
 Astro小太阳,p3p://167.114.175.6:55331/5fe73a6e0002c79c8e2e4e6b5f402a1d
 天映高清(ID),p3p://167.114.175.6:55331/6471b17d00006ecded54c93b1ea4486b
+TVB 华丽台,https://cdn6.cc.cd/163189/jade
 TVB 华丽台,https://cdn.qd.je/163189/hlfct
 TVB 华丽台,https://o11.163189.xyz/stream/live/jade/
 TVB 华丽台,p3p://167.114.175.6:55331/64ee3cb2000a26c8d3d2192c252a0aba
@@ -770,7 +771,7 @@ TVB 华丽台,p3p://167.114.175.6:55331/64ee3cb2000a26c8d3d2192c252a0aba
 PBO,p3p://167.114.175.6:55331/6456abf5000a07a583c7853f491079a1
 f
 TVB TH(泰),p3p://167.114.175.6:55331/65b64c3100063b42e14aef4a180c689c
-TVB 星河 :aTH,https://cdn6.cc.cd/163189/tvbxh
+TVB 星河 TH,https://cdn6.cc.cd/163189/tvbxh
 TVB 星河 TH,p3p://167.114.175.6:55331/65b64d75000447ebe14fe06c46057e05
 TVB Live Shows TH,p3p://167.114.175.6:55331/65b64e9b000ba1a0e1545ebf0a4d7498
 TVB 翡翠 TH,p3p://167.114.175.6:55331/65b64fbd0009cbbde158cb180de55bc9
@@ -786,6 +787,7 @@ TVB DRAMA,https://tv.media4u.top:443/live/media4u/media4u/433200
 TVBe,https://tv.media4u.top:443/live/media4u/media4u/402157
 TVBS,https://tv.media4u.top:443/live/media4u/media4u/254801
 TVB ASIA,https://tv.media4u.top:443/live/media4u/media4u/150443
+华丽翡翠台,https://cdn6.cc.cd/163189/jade
 华丽翡翠台,https://cdn.qd.je/163189/hlfct
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 PopC,http://pull-vivek.speedws.com/live/aaapopc.flv
