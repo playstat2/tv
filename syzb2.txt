@@ -47,6 +47,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 东森电影,https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
 东森电影,http://rihou.cc:555/tv/hktv/gzmjhftw
 龙华电影,http://www.kaniptv.cn/uadl.php?etoken=rBXMBl1583nnhddxV5EYPwD8heFFv8xCpAPfXn1wfsVLAdsuCskj6ueCowx1k9DUsyUfFSkMw8JjNcCtkiP4PZRxqyR1%2BAiU9m8W7eziLDziOx9A%2FImDNDJOMtiH2FUfftivxG7GMI6C2xwfbktIRQs7mVnw%2FLy3fY7WenBUODQqkUz4IQvdxiXB9JEV7kziQFTUHmJZtsU179JUB%2BbbB7a8n35xSit7sRY8%2ByHJv22J2WBnwFznjgCEZcFXvmppId3HvAuK1kofxCJX2gPPlTjhu6SfeEMnI%2Fo%2FdGzA%2F5hJvGCWIKwviGzPyCz3GKX8OYGESrrqQg%2BQUKpGp%2BNq5g%3D%3D
+龙祥时代,https://cdn.qd.je/163189/lxsd
 龙祥时代,http://75.127.89.169:35441/endday20260630.php?id=545
 龙祥时代,https://smt.1678520.xyz/163189/6963a2247128286b
 龙祥时代,http://220.132.29.248:18089/930e333000d3b978
