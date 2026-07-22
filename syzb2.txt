@@ -837,6 +837,7 @@ TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,https://cdn13.178.indevs.in/163189/b13471c5de99d1c7
+广州新闻,https://cdn.qd.je/163189/gzxw
 广州新闻,https://cdn13.178.indevs.in/163189/609602b1e1048784
 南国都市,http://r.jdshipin.com/nWaZO
 中天新闻台,http://www.kaniptv.cn/uadl.php?etoken=d2A8AIvYd8EFBaFDYIaOpFlbnAGwT%2FzT3lJSGYFwvgol4EZyKQTj6iqieNoVSedQB7du8u8FvH6GkW3K55fdgSyz%2Bm6qDQE7VEDQrUI4pHxuGUK%2B2Moqi7uqHl1Usa0nM%2FeuUhr38UbwWjHq0iTE49MHRieGi8xEW2UORihsI6Vhzh01XeSfzKQMo%2FPgdof6wiF%2FL17shfM%2F3Loq8vPfAZPPboYmlwx%2BqK65UJg%2Bl3NONW9We0VFp1%2FLeniAGYqbuG6XxaBKLWp8FinNye6bIA0YR7hpqa54fwY4DsLYfoR8uC79%2BIT66Kxd5UyX5kbZumnCbPufkfFtMUYt%2FPe7%2Bw%3D%3D
