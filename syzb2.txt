@@ -828,8 +828,10 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 美亚电影台,http://173.208.234.146/live/mymovie.m3u8
 美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
 翡翠剧集台,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-天映电影,http://pull-vivek.speedws.com/live/aaatypd.flv
-天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+天映电影1,https://cdn.qd.je/163189/typd
+天映电影1,http://pull-vivek.speedws.com/live/aaatypd.flv
+天映电影1,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+天映电影2,https://cdn.qd.je/163189/typd2
 天映经典,http://www.kaniptv.cn/uadl.php?etoken=lRPDMvWql5Xl0j%2B%2BA0%2B4YqwcaSQoNe%2BjD6ktzVgfe6%2F6nOrd2SfjfZC%2Byyk%2FE8vBAsG5l0MM1h%2B0mchSe1%2FB4sZUbiMHDTgfJhPkHcIaE3LtM%2FCzkhfKoYhg54Dquw3a%2FRXdC0ERX49t4KZLWgcNydtFQ9kFY%2FxEJ8aNhYm20ABbFxyzmrX3p5YqNmBwlZSkWF8epGRaNw%2BUAx0Tk%2ByDw5QHcfHBb8ZsTZm6FRQBzShOjGrWSI6WBsL75oKoWICeEpTLzQeAxmEo8UNWv0GnQpIzCZfmM5IE9BS7BChUwJ7onXOqjamNrypx5MerQElH%2FINrjtHyVlwSsrmgz0TvAw%3D%3D
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 天映经典,https://live.kilvn.com/iptv.m3u"
