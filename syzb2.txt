@@ -212,6 +212,7 @@ CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 刘德华－暗里着迷,https://vd4.bdstatic.com/mda-kkncdafkwzfehvsz/hd/mda-kkncdafkwzfehvsz.mp4
 刘德华－一起走过的日子,https://vd4.bdstatic.com/mda-kjqv1j8ttzqf43jf/mda-kjqv1j8ttzqf43jf.mp4
 🎈水运央视,#genre#
+CCTV1综合(咪咕),http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV1综合(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合(咪咕),http://106.53.99.30/tv/hot.php?id=cctv1
 CCTV1综合(咪咕),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=20250912125527e5d80bff0dab4fadbcacdc1cf7a801d4&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20250912125527&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=123.119.84.37&SecurityKey=20250912125527&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c799a3a09153a44bdbdc63056781c4de&ddCalcu=ecd7v49ac9y1aa837a6059013563cad4b4db&sv=10004&ct=android
@@ -225,6 +226,7 @@ CCTV1综合,https://cdn.qd.je/163189.php?id=cctv1
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV1综合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231
+CCTV2财经(咪咕),http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV2财经(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV2财经(咪咕),http://106.53.99.30/tv/hot.php?id=cctv2
 CCTV2财经(咪咕),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/600/index.m3u8?msisdn=2025091208552838a5a7ee5a304ef2bb286c62e83776b3&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20250912085528&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=123.119.84.37&SecurityKey=20250912085528&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=bd1563fcb52985f610dd07a9ec65cf85&ddCalcu=5b8dvf1ac5z56a63cfec9ba57209d8d50f16&sv=10004&ct=android
@@ -238,6 +240,7 @@ CCTV2财经,https://cdn.qd.je/163189.php?id=cctv2
 CCTV2财经,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV2财经,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 CCTV2财经,p3p://167.114.175.6:55331/5fe15a4400093f55773aac0c576366b8
+CCTV3综艺(咪咕),http://173.208.212.130:8181/720p/cctv3.m3u8
 CCTV3综艺(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV3综艺(咪咕),http://106.53.99.30/tv/hot.php?id=cctv3
 CCTV3综艺(咪咕),http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=202509121155279f01e04bfc0b4fce9e0516f142305cbb&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20250912115527&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=123.119.84.37&SecurityKey=20250912115527&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=394c4f6c5bb0d13f8bd6a38460fec484&ddCalcu=4389v44accae4aff066c458b3ba06dd1b38f&sv=10004&ct=android
@@ -250,6 +253,7 @@ CCTV3综艺,https://cdn.qd.je/163189.php?id=cctv3
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV3综艺,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
 CCTV3综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
+CCTV4国际(咪咕),http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV4国际(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV4国际(咪咕),http://106.53.99.30/tv/hot.php?id=cctv4
 CCTV4国际(咪咕),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/600/index.m3u8?msisdn=202509121155271c2b3b28c38548b5974b1c71a8345c7e&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20250912115527&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=123.119.84.37&SecurityKey=20250912115527&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1eef7bb134296d32325a20f9a8cc6ac5&ddCalcu=51cevaea6fyc7acb8ba193f40229a65d2332&sv=10004&ct=android
@@ -264,6 +268,7 @@ CCTV4国际,https://cdn.qd.je/163189.php?id=cctv4
 CCTV4国际,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV4国际,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
 CCTV4国际,p3p://167.114.175.6:55331/61244d9c0006885d64b1b7591f6c12a0
+CCTV5体育(咪咕),http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV5体育(咪咕),http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV5体育(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5体育(咪咕),http://106.53.99.30/tv/hot.php?id=cctv5
@@ -277,6 +282,7 @@ CCTV5体育,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV5体育,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5体育,http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
 CCTV5体育,p3p://167.114.175.6:55331/62c2e10a000954acac332b30611a0e9d
+CCTV5+体育赛事(咪咕),http://173.208.212.130:8181/720p/cct5p.m3u8
 CCTV5+体育赛事(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV5+体育赛事(咪咕),http://106.53.99.30/tv/hot.php?id=cctv5p
 CCTV5+体育赛事(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv5p&zy.m3u8
@@ -287,6 +293,7 @@ CCTV5+体育赛事,https://cdn.qd.je/163189.php?id=cctv5p
 CCTV5+体育赛事,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV5+体育赛事,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 CCTV5+体育赛事,p3p://167.114.175.6:55331/6323522b0000ad5c24e892c57ad041c7
+CCTV6电影(咪咕),http://173.208.212.130:8181/720p/cctv6.m3u8
 CCTV6电影(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV6电影(咪咕),http://106.53.99.30/tv/hot.php?id=cctv6
 CCTV6电影(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv6
@@ -298,6 +305,7 @@ CCTV6电影,https://cdn.qd.je/163189.php?id=cctv6
 CCTV6电影,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 CCTV6电影,http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
 CCTV6电影,p3p://167.114.175.6:55331/62c1fdfa0006353aa8bc33e5054a54db
+CCTV7军事(咪咕),http://173.208.212.130:8181/720p/cctv7.m3u8
 CCTV7军事(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV7军事(咪咕),http://106.53.99.30/tv/hot.php?id=cctv7
 CCTV7军事(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv7
@@ -309,6 +317,7 @@ CCTV7军事,https://cdn.qd.je/163189.php?id=cctv7
 CCTV7军事,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 CCTV7军事,http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
 CCTV7军事,p3p://167.114.175.6:55331/5fe3e41800087c1581251001631763fa
+CCTV8电视剧(咪咕),http://173.208.212.130:8181/720p/cctv8.m3u8
 CCTV8电视剧(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV8电视剧(咪咕),http://106.53.99.30/tv/hot.php?id=cctv8
 CCTV8电视剧(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv8
@@ -319,6 +328,7 @@ CCTV8电视剧(咪咕),http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC
 CCTV8电视剧,https://cdn.qd.je/163189.php?id=cctv8
 CCTV8电视剧,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV8电视剧,http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
+CCTV9纪录片(咪咕),http://173.208.212.130:8181/720p/cctv9.m3u8
 CCTV9纪录片(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV9纪录片(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv9
 CCTV9纪录片(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=cctv9&zy.m3u8
@@ -329,6 +339,7 @@ CCTV9纪录片,https://cdn.qd.je/163189.php?id=cctv9
 CCTV9纪录片,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV9纪录片,http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
 CCTV9纪录片,p3p://167.114.175.6:55331/600b6ba2000d52801b8cbfda6cd319a2
+CCTV10科教(咪咕),http://173.208.212.130:8181/720p/cctv10.m3u8
 CCTV10科教(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 CCTV10科教(咪咕),http://106.53.99.30/tv/hot.php?id=cctv10
 CCTV10科教(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv10
@@ -340,6 +351,7 @@ CCTV10科教,https://cdn.qd.je/163189.php?id=cctv10
 CCTV10科教,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
 CCTV10科教,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
 CCTV10科教,p3p://167.114.175.6:55331/600b6e71000738431b97b6e5675e67a4
+CCTV11戏曲(咪咕),http://173.208.212.130:8181/720p/cctv11.m3u8
 CCTV11戏曲(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 CCTV11戏曲(咪咕),http://106.53.99.30/tv/hot.php?id=cctv11
 CCTV11戏曲(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv11
@@ -350,6 +362,7 @@ CCTV11戏曲(咪咕),http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2a
 CCTV11戏曲,https://cdn.qd.je/163189.php?id=cctv11
 CCTV11戏曲,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 CCTV11戏曲,p3p://167.114.175.6:55331/600b70950000f68f1ba011e06e003057
+CCTV12社会与法(咪咕),http://173.208.212.130:8181/720p/cctv12.m3u8
 CCTV12社会与法(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV12社会与法(咪咕),http://106.53.99.30/tv/hot.php?id=cctv12
 CCTV12社会与法(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv12
@@ -360,6 +373,7 @@ CCTV12社会与法(咪咕),http://sport.pendy.dpdns.org/migu/673168185?token=BCD
 CCTV12社会与法,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 CCTV12社会与法,https://cdn.qd.je/163189.php?id=cctv12
 CCTV12社会与法,p3p://167.114.175.6:55331/5fe3e42d00068cbf812561891e0e6b52
+CCTV13新闻(咪咕),http://173.208.212.130:8181/720p/cctv13.m3u8
 CCTV13新闻(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CCTV13新闻(咪咕),http://106.53.99.30/tv/hot.php?id=cctv13
 CCTV13新闻(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv13
@@ -371,6 +385,7 @@ CCTV13新闻,https://cdn.qd.je/163189.php?id=cctv13
 CCTV13新闻,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CCTV13新闻,https://cdn3.163189.xyz/163189/cctv13
 CCTV13新闻,p3p://167.114.175.6:55331/632351570006042224e55806316a7512
+CCTV14少儿(咪咕),http://173.208.212.130:8181/720p/cctv14.m3u8
 CCTV14少儿(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 CCTV14少儿(咪咕),http://106.53.99.30/tv/hot.php?id=cctv14
 CCTV14少儿(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv14
@@ -381,6 +396,7 @@ CCTV14少儿(咪咕),http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2a
 CCTV14少儿,https://cdn.qd.je/163189.php?id=cctv14
 CCTV14少儿,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 CCTV14少儿,p3p://167.114.175.6:55331/600b718b0006dd9f1ba3d45468b1762e
+CCTV15音乐(咪咕),http://173.208.212.130:8181/720p/cctv15.m3u8
 CCTV15音乐(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV15音乐(咪咕),http://106.53.99.30/tv/hot.php?id=cctv15
 CCTV15音乐(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv15
@@ -391,6 +407,7 @@ CCTV15音乐(咪咕),http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2a
 CCTV15音乐,https://cdn.qd.je/163189.php?id=cctv15
 CCTV15音乐,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 CCTV15音乐,p3p://167.114.175.6:55331/63235101000d828724e40a062bb62592
+CCTV16奥林匹克(咪咕),http://173.208.212.130:8181/720p/cctv16.m3u8
 CCTV16奥林匹克(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16奥林匹克(咪咕),http://106.53.99.30/tv/hot.php?id=cctv16
 CCTV16奥林匹克(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv16
@@ -399,6 +416,7 @@ CCTV16奥林匹克(咪咕),http://sport.pendy.dpdns.org/migu/673168256?token=BCD
 CCTV16奥林匹克,https://cdn.qd.je/163189.php?id=cctv16
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV16奥林匹克,p3p://167.114.175.6:55331/632350a5000deee324e2a2bc22a37dd9
+CCTV17农业农村(咪咕),http://173.208.212.130:8181/720p/cctv17.m3u8
 CCTV17农业农村(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 CCTV17农业农村(咪咕),http://106.53.99.30/tv/hot.php?id=cctv17
 CCTV17农业农村(咪咕),http://8.138.7.223/tv/migu666.php?name=cctv17
