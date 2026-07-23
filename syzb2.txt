@@ -410,8 +410,7 @@ CCTV17农业农村,https://cdn.qd.je/163189.php?id=cctv17
 CCTV17农业农村,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 🎈水运卫视,#genre#
-亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
-亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+东方卫视,https://live.chinacert.cftest5.cn/cnmg/live/651632648
 东方卫视,https://cdn.qd.je/163189.php?id=dfws
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 东方卫视,http://106.53.99.30/tv/hot.php?id=dfws
