@@ -466,11 +466,13 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
 深圳卫视,https://live.sxrtv.com/iptv/szws.flv
 深圳卫视,p3p://167.114.175.6:55331/5fe21c150008cdc67a2fc45c52c03e7b
+浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 浙江卫视,http://106.53.99.30/tv/hot.php?id=zjws
 浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
 浙江卫视,p3p://167.114.175.6:55331/62c1fc2a0002c3eba8b51e81055b25b3
+山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8
 山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 山东卫视,http://106.53.99.30/tv/hot.php?id=sdws
 山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
@@ -482,6 +484,7 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
 黑龙江卫视,https://live.sxrtv.com/iptv/hljws.flv
 黑龙江卫视,p3p://167.114.175.6:55331/6323b2350007630d265fbb91230b76bb
+吉林卫视,http://173.208.212.130:8181/720p/jlws.m3u8
 吉林卫视,https://live.chinacert.cftest5.cn/cnmg/live/947472500
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 吉林卫视,http://106.53.99.30/tv/hot.php?id=jlws
@@ -507,6 +510,7 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 广东卫视,http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
 广东卫视,https://live.sxrtv.com/iptv/gdws.flv
 广东卫视,p3p://167.114.175.6:55331/5fedd54600018ac3a7fab8e83f1073c3
+四川卫视,http://173.208.212.130:8181/720p/scws.m3u8
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 四川卫视,http://106.53.99.30/tv/hot.php?id=scws
 四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
@@ -518,6 +522,7 @@ CCTV17农业农村,p3p://167.114.175.6:55331/61396e64000c4165b738e08c29be1bd0
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 东南卫视,https://live.sxrtv.com/iptv/dnws.flv
 东南卫视,p3p://167.114.175.6:55331/61396ab50001b07bb72a7a3c04304523
+安徽卫视,http://173.208.212.130:8181/720p/nhws.m3u8
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 安徽卫视,http://106.53.99.30/tv/hot.php?id=ahws
 安徽卫视,https://live.sxrtv.com/iptv/ahws.flv
