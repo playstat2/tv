@@ -212,6 +212,7 @@ CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 刘德华－暗里着迷,https://vd4.bdstatic.com/mda-kkncdafkwzfehvsz/hd/mda-kkncdafkwzfehvsz.mp4
 刘德华－一起走过的日子,https://vd4.bdstatic.com/mda-kjqv1j8ttzqf43jf/mda-kjqv1j8ttzqf43jf.mp4
 🎈水运央视,#genre#
+CCTV1综合(咪咕),http://wfenf.x3322.net:7788/608807420
 CCTV1综合(咪咕),http://173.208.212.130:8181/720p/cctv1.m3u8
 CCTV1综合(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合(咪咕),http://106.53.99.30/tv/hot.php?id=cctv1
@@ -222,10 +223,12 @@ CCTV1综合(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=c
 CCTV1综合(咪咕),http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV1综合(咪咕),https://tv.iill.top/migu/cctv1
 CCTV1综合(咪咕),http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV1综合,http://wfenf.x3322.net:7788/608807420
 CCTV1综合,https://cdn.qd.je/163189.php?id=cctv1
 CCTV1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 CCTV1综合,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV1综合,p3p://167.114.175.6:55331/62c200310006b7b2a8c4dade0fd02231
+CCTV2财经(咪咕),http://wfenf.x3322.net:7788/631780532
 CCTV2财经(咪咕),http://173.208.212.130:8181/720p/cctv2.m3u8
 CCTV2财经(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV2财经(咪咕),http://106.53.99.30/tv/hot.php?id=cctv2
@@ -236,10 +239,12 @@ CCTV2财经(咪咕),http://kds.shanxixr.com/mg.php?id=cctv2
 CCTV2财经(咪咕),http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV2财经(咪咕),https://tv.iill.top/migu/cctv2
 CCTV2财经(咪咕),http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV2财经,http://wfenf.x3322.net:7788/631780532
 CCTV2财经,https://cdn.qd.je/163189.php?id=cctv2
 CCTV2财经,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 CCTV2财经,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
 CCTV2财经,p3p://167.114.175.6:55331/5fe15a4400093f55773aac0c576366b8
+CCTV3综艺(咪咕),http://wfenf.x3322.net:7788/624878271
 CCTV3综艺(咪咕),http://173.208.212.130:8181/720p/cctv3.m3u8
 CCTV3综艺(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV3综艺(咪咕),http://106.53.99.30/tv/hot.php?id=cctv3
@@ -249,10 +254,12 @@ CCTV3综艺(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=c
 CCTV3综艺(咪咕),http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV3综艺(咪咕),https://tv.iill.top/migu/cctv3
 CCTV3综艺(咪咕),http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV3综艺,http://wfenf.x3322.net:7788/624878271
 CCTV3综艺,https://cdn.qd.je/163189.php?id=cctv3
 CCTV3综艺,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 CCTV3综艺,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
 CCTV3综艺,p3p://167.114.175.6:55331/62be83ea0001dbed9b27d7bb43427d30
+CCTV4中文国际(咪咕),http://wfenf.x3322.net:7788/631780421
 CCTV4国际(咪咕),http://173.208.212.130:8181/720p/cctv4.m3u8
 CCTV4国际(咪咕),http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV4国际(咪咕),http://106.53.99.30/tv/hot.php?id=cctv4
@@ -264,6 +271,7 @@ http://150.138.78.253:10050/migu/631780421?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw
 CCTV4国际(咪咕),http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV4国际(咪咕),https://tv.iill.top/migu/cctv4
 CCTV4国际(咪咕),http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV4中文国际,http://wfenf.x3322.net:7788/631780421
 CCTV4国际,https://cdn.qd.je/163189.php?id=cctv4
 CCTV4国际,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
 CCTV4国际,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
