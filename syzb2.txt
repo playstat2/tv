@@ -89,8 +89,7 @@ PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 凤凰美洲,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500958.ts
 凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
 文成综合,http://nplay-qukan.cztv.com/live/1757486581311330.m3u8
-CCTV-1HD,http://69.30.245.50/live/cctv1.m3u8
-CCTV-1HD,http://75.127.89.169:35441/endday20260630.php?id=1
+CCTV-1HD,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
 CCTV-1HD(备用),http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/index.m3u8?msisdn=202607070713108963b478cfd14879a4726f6a3fe9eb9e&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260707071310&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=183.241.194.208&SecurityKey=20260707071310&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0f7942f44236952052ac8b6ee6cde31d&ddCalcu=d01fe370e98d40c26fe4e462b386c9a52250
 CCTV-1HD(备用),http://112.194.199.151:7788/608807420
