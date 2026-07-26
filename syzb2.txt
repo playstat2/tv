@@ -300,7 +300,7 @@ CCTV5+体育赛事(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ
 CCTV5+体育赛事(咪咕),http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV5+体育赛事(咪咕),https://tv.iill.top/migu/cctv5p
 CCTV5+体育赛事(咪咕),http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV15+体育赛事,http://107.150.60.122/live/cctv5phd.m3u8
+CCTV5+体育赛事,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+体育赛事,http://wfenf.x3322.net:7788/641886773
 CCTV5+体育赛事,https://cdn.qd.je/163189.php?id=cctv5p
 CCTV5+体育赛事,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
