@@ -426,6 +426,7 @@ CCTV13新闻(咪咕),http://110.42.37.69:6688/live/live.php?token=zUA1TRLJ9Q&id=
 CCTV13新闻(咪咕),http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV13新闻(咪咕),https://tv.iill.top/migu/cctv13
 CCTV13新闻(咪咕),http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+CCTV13新闻,https://cdn.qd.je/163189/cctv13
 CCTV13新闻,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV13新闻,http://wfenf.x3322.net:7788/608807423
 CCTV13新闻,https://cdn.qd.je/163189.php?id=cctv13
