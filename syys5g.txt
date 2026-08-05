@@ -94,10 +94,10 @@
       "filterable": 1
     },
 {
-      "key": "华为资源",
-      "name": "华为资源",
-      "type": 1,
-      "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+      "key": "OK资源",
+      "name": "OK资源",
+      "type": 0,
+      "api": "https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
