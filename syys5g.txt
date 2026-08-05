@@ -93,6 +93,24 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+      "key": "非凡资源",
+      "name": "非凡资源",
+      "type": 0,
+      "api": "http://ffzy5.tv/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "忆梦影视",
+      "name": "忆梦影视",
+      "type": 1,
+      "api": "https://www.gnpt.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"猫眼","name":"猫眼","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"天亦","name":"天亦┃YYDS","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/"},
 {
