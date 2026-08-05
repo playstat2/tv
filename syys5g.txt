@@ -84,6 +84,15 @@
 {"key":"飘零影院2","name":"飘零影院2","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"无忧影视","name":"无忧影视","type":1,"api":"https://www.wyvod.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"四个圈","name":"四个圈","type":1,"api":"https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{
+      "key": "柚子资源",
+      "name": "柚子资源",
+      "type": 0,
+      "api": "https://api.yzzy-api.com/inc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"猫眼","name":"猫眼","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"天亦","name":"天亦┃YYDS","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/"},
 {
