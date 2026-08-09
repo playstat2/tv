@@ -203,6 +203,7 @@ CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 青海卫视,http://107.150.60.122/live/qhws.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8:2001/jmb/IPTV.php?id=深圳卫视
 💞康少精选,#genre#
+﻿灌篮AI黄家驹,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c0461f072ec101037001992f147f11_258.mp4
 洪真英-活着,https://vd4.bdstatic.com/mda-pcjz4dhsrm2xj5pm/sc/cae_h264/1679362398055378730/mda-pcjz4dhsrm2xj5pm.mp4
 洪真英-活着,https://vd4.bdstatic.com/mda-mjs3nbq8qkcbcpnv/720p/h264/1635302158468970895/mda-mjs3nbq8qkcbcpnv.mp4
 陈松伶-缘分,https://vd4.bdstatic.com/mda-nbqdn09158i3v8t7/hd/cae_h264_delogo/1645782597749041565/mda-nbqdn09158i3v8t7.mp4?v_from_s=hkapp-haokan-hna&auth_key=1686719667-0-0-94a76e01cb06d9602829189a0702614d&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=4&logid=2667918267&vid=2635540046106044335&abtest=all.m3u8
