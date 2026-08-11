@@ -11,9 +11,13 @@
 ⬇️港乐粤翻⬇️,http://rihou.cc:555/tv/t
 嘉欣粤翻唱一,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea62c5215d8b634f0370019f91d45d6a_258.mp4
 嘉欣粤翻唱一,http://rihou.cc:555/tv/嘉欣粤翻唱一
+嘉欣粤翻唱二,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea62c5b557b80b4f0370019f91d5d1be_258.mp4
 嘉欣粤翻唱二,http://rihou.cc:555/tv/嘉欣粤翻唱二
+嘉欣粤翻唱三,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea62c6076367d44f0370019f91d74ac3_258.mp4
 嘉欣粤翻唱三,http://rihou.cc:555/tv/嘉欣粤翻唱三
+嘉欣粤錋唱四,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea62c6585b3ff54f0370019f91d8aec7_258.mp4
 嘉欣粤翻唱四,http://rihou.cc:555/tv/嘉欣粤翻唱四
+嘉欣粤錋唱五,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea62c6a25d8a8e4f0370019f91d98e8d_258.mp4
 嘉欣粤翻唱五,http://rihou.cc:555/tv/嘉欣粤翻唱五
 ⬇️港风女声⬇️,http://rihou.cc:555/tv/t
 港风粤语女一,http://rihou.cc:555/tv/港风粤语女一
