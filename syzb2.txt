@@ -2,7 +2,7 @@
 半岛电视,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 ﻿🐰欣赏港乐,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
-林咏诗翻唱一,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea62c5b557b80b4f0370019f91d5d1be_258.mp4
+林咏诗翻唱一,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea637d87579a3b4f0370019f94a4a12b_258.mp4
 林咏诗翻唱一,http://rihou.cc:555/tv/林咏诗翻唱一
 林咏诗翻唱二,http://rihou.cc:555/tv/林咏诗翻唱二
 林咏诗翻唱三,http://rihou.cc:555/tv/林咏诗翻唱三
