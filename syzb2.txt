@@ -98,6 +98,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 东森美洲,https://tv.media4u.top:443/live/media4u/media4u/499778
 东森美洲,http://jp.gxdx.org/relay_temp.php?t=addad9220dcb4a5822a683a0898be35aa7d2
+东森电影,https://ktpremium.world/live/LT1976F/A9177/870557.ts
 东森电影,https://cdn.qd.je/163189/dsdy
 东森电影,http://www.kaniptv.cn/uadl.php?etoken=o6kSdHfJgOWIf4msSV0gr9Gq92YfyqY9BfhqHTf85NrnbUKDrvqAfy9ioXTUeWdazfAsYsHUEAdnLdMF2RzImfxsA31t7PqYX%2BUMyr9WRvEkVkphwQM%2BWSTnzjPkL7QHsAdeM9FaxdntlO1X9mmZcpqtK6CrauNeyXhnYG5UA8imPobbWRSgImQp8Hxcxwvu8b2vPtV4zzQNZ%2FXntau425hRv6jLdlr%2B3h94rLI66GxJPTW8P6A1B7Fh7MhcK%2Fdkd9Ri6w7fWNW51kucLq0N%2F6Y34irSU0O%2BMprIg39qTdzQJUMnqxa7bkoGRdMMZ0lsVwFtUOA1SgQl54Xgu2GlSQ%3D%3D
 东森电影,http://www.kaniptv.cn/uadl.php?etoken=o6kSdHfJgOWIf4msSV0gr9Gq92YfyqY9BfhqHTf85NrnbUKDrvqAfy9ioXTUeWdazfAsYsHUEAdnLdMF2RzImfxsA31t7PqYX%2BUMyr9WRvEkVkphwQM%2BWSTnzjPkL7QHsAdeM9FaxdntlO1X9mmZcpqtK6CrauNeyXhnYG5UA8imPobbWRSgImQp8Hxcxwvu8b2vPtV4zzQNZ%2FXntau425hRv6jLdlr%2B3h94rLI66GxJPTW8P6A1B7Fh7MhcK%2Fdkd9Ri6w7fWNW51kucLq0N%2F6Y34irSU0O%2BMprIg39qTdzQJUMnqxa7bkoGRdMMZ0lsVwFtUOA1SgQl54Xgu2GlSQ%3D%3D
@@ -106,11 +107,13 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 东森电影,https://cdn-2.ttvb.eu.org/api/ET-Movie/index.m3u8
 东森电影,http://rihou.cc:555/tv/hktv/gzmjhftw
 龙华电影,http://www.kaniptv.cn/uadl.php?etoken=rBXMBl1583nnhddxV5EYPwD8heFFv8xCpAPfXn1wfsVLAdsuCskj6ueCowx1k9DUsyUfFSkMw8JjNcCtkiP4PZRxqyR1%2BAiU9m8W7eziLDziOx9A%2FImDNDJOMtiH2FUfftivxG7GMI6C2xwfbktIRQs7mVnw%2FLy3fY7WenBUODQqkUz4IQvdxiXB9JEV7kziQFTUHmJZtsU179JUB%2BbbB7a8n35xSit7sRY8%2ByHJv22J2WBnwFznjgCEZcFXvmppId3HvAuK1kofxCJX2gPPlTjhu6SfeEMnI%2Fo%2FdGzA%2F5hJvGCWIKwviGzPyCz3GKX8OYGESrrqQg%2BQUKpGp%2BNq5g%3D%3D
+龙祥时代,https://ktpremium.world/live/LT1976F/A9177/694086.ts
 龙祥时代,https://cdn.qd.je/163189/lxsd
 龙祥时代,http://75.127.89.169:35441/endday20260630.php?id=545
 龙祥时代,https://smt.1678520.xyz/163189/6963a2247128286b
 龙祥时代,http://220.132.29.248:18089/930e333000d3b978
 龙祥时代,http://rihou.cc:555/tv/hktv/tbbgghtw
+美亚电影,https://ktpremium.world/live/LT1976F/A9177/870561.ts
 美亚电影台,http://173.208.234.146/live/mymovie.m3u8
 美亚电影台,https://iptv.852851.xyz/l/UZHm3fj1a8FJ8elo_gEFmFgISajk2ED1oZ1GXyoeJwgslpUqpYEubCQadOaXsdSJ/index.m3u8
 美亚电影台,http://75.127.89.169:35441/endday20260630.php?id=716
@@ -891,6 +894,7 @@ Cinemax HK,p3p://167.114.175.6:55331/65b1767d00058cdcce68527c3131148e
 天映频道(国语),https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 天映频道(国语),p3p://167.114.175.6:55331/6471b0bb00011e09ed51d397629e4f55
 天映频道(国语),p3p://167.114.175.6:55331/65bf5a9a0005aa9d04ab0515203f3b8b
+美亚电影(国),https://ktpremium.world/live/LT1976F/A9177/870561.ts
 美亚电影(国),http://173.208.234.146/live/mymovie.m3u8
 美亚电影(国),p3p://167.114.175.6:55331/64c3653f0007f6812c7970122ff43531
 天映经典(粤),http://74.91.26.218:82/live/tyjd.m3u8
@@ -934,6 +938,7 @@ HBO原创,p3p://167.114.175.6:55331/623a6e38000091d497395ce957b27132
 HBO家庭,p3p://167.114.175.6:55331/623a706d0003edf59741fcc023dc0089
 HBO巨献,p3p://167.114.175.6:55331/623a700000069676974053b555b700d4
 HBO HD,p3p://167.114.175.6:55331/64e364fb000a0212a977a1cd342976da
+美亚电影,https://ktpremium.world/live/LT1976F/A9177/870561.ts
 美亚电影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 龙祥时代,p3p://167.114.175.6:55331/60115453000a238d32a1418142be77f7
 龙华电影,http://www.kaniptv.cn/uadl.php?etoken=wzeJEa8vKDsqdMPpSIoJqFPqa%2B%2FFT6I2GMWQjlBlTv%2FdGYt6lWwc6f3vga%2FSyciTwKdTYUYzsnU7hMnVCOHXw9WR9vQaiCN74rgSzYSJD7CisBxq7BshF4YsrSN06w3kd89e3m4mtdtQ%2FuFL3fI3M2Pi7jwBpud7JqVs5FENcVOwnaYsDt%2FzaFVLvT%2Ft%2FagUfa8QAvYgTmwVkmlVUJJyEKObaAuwgLmXu%2Fe9YuaDDQy2%2FrP%2FWmAmId%2B2vFXgQzio%2FvAglL%2Bq69nhVAbWai64wU22YF44dOzyu9aV87RhD6f2RgRAcIgy%2F8erT0mra5A7I6h1RaTo3dqlu8k0nqNK%2Bw%3D%3D
@@ -1034,6 +1039,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
+美亚电影,https://ktpremium.world/live/LT1976F/A9177/870561.ts
 美亚电影台,http://173.208.234.146/live/mymovie.m3u8
 美亚电影台,http://pull-vivek.speedws.com/live/aaamydy.flv
 翡翠剧集台,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
