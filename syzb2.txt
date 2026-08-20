@@ -81,6 +81,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 智利Channel,https://v2.tustreaming.cl/chilechannel/index.m3u8
 智利UCV,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 西班牙DW,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://live.kilvn.com/iptv.m3u"
 天映经典,https://cdn.qd.je/163189/ccm
@@ -90,6 +91,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 天映经典,https://cdn10.163189.xyz/163189/280254ed-0f00-4b01-b665-83e5d4dbf908/
 天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
 天映经典,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
+天映电影,https://cdn3.indevs.in/stream/live/typd/
 天映电影,http://cdn10.123.rr.kg/163189/typd/
 天映电影,https://o11.163189.xyz/stream/live/typd/
 天映电影,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165792
@@ -133,10 +135,12 @@ PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
 龙华电影,http://cdn8.123.rr.kg/163189/lhdy
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
+凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,http://cdn6.123.rr.kg/163189/fhzw
 凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
+凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,http://cdn6.123.rr.kg/163189/fhzx
 凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
 凤凰资讯,https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
@@ -773,10 +777,12 @@ TVB翡翠台,https://cdn.qd.je/163189/fct2
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
+TVB PLus,https://cdn3.indevs.in/stream/tvb/tvbp/
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://t.061899.xyz/tl/js/js.php?id=tvbplus
 TVB Plus,p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1
+TVB无线新闻,https://cdn6.cc.cd/163189/wxxwt
 TVB无线新闻,https://cdn.qd.je/163189/wxxw
 TVB无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 TVB无线新闻,https://cdn6.163189.xyz/163189/wxxwt
@@ -826,6 +832,7 @@ TVB功夫台,p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803
 TVB华语剧,p3p://167.114.175.6:55331/653e4acf0006e0e80c87b2c8194d5791
 TVB亚洲剧,p3p://167.114.175.6:55331/6284685e00039b52b82eeeca7a785fda
 HBO (中),p3p://167.114.175.6:55331/65d07877000b028d4787830a723c4ce7
+TVB星河(粤),https://cdn3.indevs.in/stream/live/tvbxh/
 TVB星河(粤),http://rihou.cc:555/tv/[Pd]无线星河
 TVB星河(粤),http://r.jdshipin.com/Voac4
 TVB星河(粤),p3p://167.114.175.6:55331/5fdee23d000b670a6d96428e4c334643
@@ -893,6 +900,7 @@ Star Movies,p3p://167.114.175.6:55331/6506c5e500027c7f33a9834b5d937568
 NOW 668跑马,p3p://167.114.175.6:55331/6318b7730000b372fb7ca7e170c66e54
 Now NBA TV,p3p://167.114.175.6:55331/65a587500007bc039fca3566638e69af
 Cinemax HK,p3p://167.114.175.6:55331/65b1767d00058cdcce68527c3131148e
+天味频道(国语),https://cdn3.indevs.in/stream/live/typd/
 天映频道(国语),https://smt.1678520.xyz/smt3.2.1.php?id=Celestial
 天映频道(国语),p3p://167.114.175.6:55331/6471b0bb00011e09ed51d397629e4f55
 天映频道(国语),p3p://167.114.175.6:55331/65bf5a9a0005aa9d04ab0515203f3b8b
@@ -967,6 +975,7 @@ TVB E US,p3p://167.114.175.6:55331/63efe2e2000d23b5f2480b4125294b9a
 美国中文,p3p://167.114.175.6:55331/5fe010d0000835cd7233bea8248f65e2
 天映高清(国),http://cdn10.163189.xyz/163189/typd
 天映高清(国),p3p://167.114.175.6:55331/64d733f10006463379d868e844611939
+天映经典(园),https://cdn3.indevs.in/stream/live/ccm/
 天映经典(国),http://cdn10.163189.xyz/163189/ccm
 天映经典(国),http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天映经典(国),p3p://167.114.175.6:55331/65e32562000799ab907aa2d9467a6656
@@ -982,6 +991,7 @@ Astro Aura,p3p://167.114.175.6:55331/61375df1000aeb31af289f004f670c2c
 Astro Arena,p3p://167.114.175.6:55331/5fe7e8d70000ca5290d79816405b4a78
 Astro小太阳,p3p://167.114.175.6:55331/5fe73a6e0002c79c8e2e4e6b5f402a1d
 天映高清(ID),p3p://167.114.175.6:55331/6471b17d00006ecded54c93b1ea4486b
+TVB 华丽台,https://cdn6.cc.cd/163189/hlfct
 TVB 华丽台,https://cdn6.cc.cd/163189/jade
 TVB 华丽台,https://cdn.qd.je/163189/hlfct
 TVB 华丽台,https://o11.163189.xyz/stream/live/jade/
@@ -1008,6 +1018,7 @@ TVB DRAMA,https://tv.media4u.top:443/live/media4u/media4u/433200
 TVBe,https://tv.media4u.top:443/live/media4u/media4u/402157
 TVBS,https://tv.media4u.top:443/live/media4u/media4u/254801
 TVB ASIA,https://tv.media4u.top:443/live/media4u/media4u/150443
+华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
 华丽翡翠台,https://cdn6.cc.cd/163189/jade
 华丽翡翠台,https://cdn.qd.je/163189/hlfct
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
@@ -1021,11 +1032,13 @@ NOW爆谷,https://live.kilvn.com/iptv.m3u"
 NOW爆谷,http://124.244.129.167:7007/0.ts
 NOW爆谷,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 NOW爆谷,http://rihou.cc:555/tv/[Bx]Now爆谷
+凤凰中文台,https://cdn6.cc.cd/163189/fhzw
 凤凰中文台,http://cdn6.123.rr.kg/163189/fhzw
 凤凰中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文台,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯台,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯台,http://cdn6.123.rr.kg/163189/fhzx
 凤凰资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯台,https://cdn6.101.qzz.io/163189/fhzx
@@ -1041,7 +1054,8 @@ ViuTV,http://r.jdshipin.com/vSJvl
 黃金翡翠台,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
 明珠剧集台,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
 明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+无线新闻台,https://cdn6.cc.cd/163189/wxxwt
+无线新闻台,,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 NOW新闻,https://cdn.163189.xyz/163189/now
 美亚电影台,https://ktpremium.world/live/LT1976F/A9177/870561.ts
 美亚电影台,http://173.208.234.146/live/mymovie.m3u8
@@ -1051,6 +1065,7 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 天映电影1,http://pull-vivek.speedws.com/live/aaatypd.flv
 天映电影1,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 天映电影2,https://cdn.qd.je/163189/typd2
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://www.kaniptv.cn/uadl.php?etoken=lRPDMvWql5Xl0j%2B%2BA0%2B4YqwcaSQoNe%2BjD6ktzVgfe6%2F6nOrd2SfjfZC%2Byyk%2FE8vBAsG5l0MM1h%2B0mchSe1%2FB4sZUbiMHDTgfJhPkHcIaE3LtM%2FCzkhfKoYhg54Dquw3a%2FRXdC0ERX49t4KZLWgcNydtFQ9kFY%2FxEJ8aNhYm20ABbFxyzmrX3p5YqNmBwlZSkWF8epGRaNw%2BUAx0Tk%2ByDw5QHcfHBb8ZsTZm6FRQBzShOjGrWSI6WBsL75oKoWICeEpTLzQeAxmEo8UNWv0GnQpIzCZfmM5IE9BS7BChUwJ7onXOqjamNrypx5MerQElH%2FINrjtHyVlwSsrmgz0TvAw%3D%3D
 天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
 天映经典,https://live.kilvn.com/iptv.m3u"
@@ -1071,6 +1086,7 @@ TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 民視,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 龍華日韓台,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+TVB 星问,https://cdn3.indevs.in/stream/live/tvbxh/
 TVB 星河,https://cdn6.cc.cd/163189/tvbxh
 TVB 星河,http://r.jdshipin.com/Voac4
 TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
