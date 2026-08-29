@@ -800,6 +800,7 @@ Viu TV,https://cdn10.163189.xyz/163189/9dede8e5-1578-4eb8-bf64-3c8b1865bbf7/
 Viu TV,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/33.ts
 Viu TV,http://api.kklkwg.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
 Viu TV,p3p://167.114.175.6:55331/611d99820007a67c4a82a3fe3cc749de
+VIU 6,https://cdn.qd.je/163189/viu6
 VIU 6,p3p://167.114.175.6:55331/5fed31e7000736e2a57c8f4c14d55d36
 凤凰电影,p3p://167.114.175.6:55331/65ac2b5d00016c25b9badc664c7548fd
 香港国际财经,p3p://167.114.175.6:55331/64838620000cd8ed32fb0d6a414411f7
