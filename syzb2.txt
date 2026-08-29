@@ -998,7 +998,8 @@ TVB 华丽台,https://cdn6.cc.cd/163189/jade
 TVB 华丽台,https://cdn.qd.je/163189/hlfct
 TVB 华丽台,https://o11.163189.xyz/stream/live/jade/
 TVB 华丽台,p3p://167.114.175.6:55331/64ee3cb2000a26c8d3d2192c252a0aba
-天映频道(ID),p3p://167.114.175.6:55331/64e863a40000ec0abcfa63ab62e510cb
+天映频道,https://cdn.qd.je/163189/typd
+天映频道,p3p://167.114.175.6:55331/64e863a40000ec0abcfa63ab62e510cb
 
 PBO,p3p://167.114.175.6:55331/6456abf5000a07a583c7853f491079a1
 f
