@@ -277,6 +277,7 @@ CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 周慧敏-最爱,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cihdb9rc77uaaibdjvl0&ratio=720p&line=0
 郑中基-无赖,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cmaj7d7og65vg4bdm0h0&ratio=720p&line=0
 孙耀威-爱的故上集,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c60cbq3c77u4kbdnbc3g&ratio=720p&line=0
+陈奕迅-明年今日,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ccqqbarc77u3c0tjm46g&ratio=720p&line=0
 黎明-十大经典MTV,https://vd3.bdstatic.com/mda-nkm0q4v1cnx3dg0q/sc/cae_h264/1669099217121656933/mda-nkm0q4v1cnx3dg0q.mp4
 李克勤-十大经典MTV,https://vd3.bdstatic.com/mda-nkm0rfx2h01mecpb/sc/cae_h264/1669097663537218616/mda-nkm0rfx2h01mecpb.mp4
 刘德华－暗里着迷,https://vd4.bdstatic.com/mda-kkncdafkwzfehvsz/hd/mda-kkncdafkwzfehvsz.mp4
