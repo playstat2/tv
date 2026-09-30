@@ -126,17 +126,20 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 美亚电影台,http://75.127.89.169:35441/endday20260630.php?id=716
 纬来电影,https://cdn.qd.je/163189/wldy
 纬来电影,http://www.kaniptv.cn/uadl.php?etoken=wzeJEa8vKDsqdMPpSIoJqFPqa%2B%2FFT6I2GMWQjlBlTv%2FdGYt6lWwc6f3vga%2FSyciTwKdTYUYzsnU7hMnVCOHXw9WR9vQaiCN74rgSzYSJD7CisBxq7BshF4YsrSN06w3kd89e3m4mtdtQ%2FuFL3fI3M2Pi7jwBpud7JqVs5FENcVOwnaYsDt%2FzaFVLvT%2Ft%2FagUfa8QAvYgTmwVkmlVUJJyEKObaAuwgLmXu%2Fe9YuaDDQy2%2FrP%2FWmAmId%2B2vFXgQzio%2FvAglL%2Bq69nhVAbWai64wU22YF44dOzyu9aV87RhD6f2RgRAcIgy%2F8erT0mra5A7I6h1RaTo3dqlu8k0nqNK%2Bw%3D%3D
+星影台,http://iptv.852851.xyz/l/iX1VIO77Pilwfi26fiMdGv7y0LC1VZkcRQVZiZW0t2op33yvKaDTugiBCaFhrRUW/index.m3u8
 星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
 星影台,http://173.208.234.146/live/nowxy.m3u8
 星影台,https://live.kilvn.com/iptv.m3u"
 星影台,http://75.127.89.169:35441/endday20260630.php?id=178
 星影台,http://qingyi.7766.org:7003/0.ts
+爆谷台,https://play-drm.aliiptv.com/live/nowbg.m3u8
 爆谷台,http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
 爆谷台,http://173.208.234.146/live/nowbg.m3u8
 爆谷台,https://live.kilvn.com/iptv.m3u"
 爆谷台,http://75.127.89.169:35441/endday20260630.php?id=173
 爆谷台,http://124.244.129.167:7007/0.ts
 爆谷台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+PopC电影,http://iptv.852851.xyz/l/puksKG0T8LI5v4Em4plpmh4bSkrewqoYp88IBT8hVZl08Yv2oI6QgZZgw4lFURi6/index.m3u8
 PopC电影,http://www.kaniptv.cn/uadl.php?etoken=XDkyXVm2bhfZt8OGtGYOfJSNMaWAo%2FWXHC3S2rLBIuA%2BMJ2bWjQph1TmZDIBHv%2BL3cdz49lZMJZXls9g1CzJp%2Fi9rTWPw3ClTNLG0eAEvkmLRMEb5%2BtPo6lNR7j1DaWryFgmyKRmDcauEvUeMb4p%2B%2BVz%2FYPp2uVT1aOtUTYQynHxh9zxf8zeco2wGX%2B4DbLaPtuZw3qDI43dEMNfx1o3rXCxVV8tSWsQ7WvHiDVExvuHtlPD49kcX9Oy0U6Mr3bUxIDI9pXEMQJv%2BauBVzDys4p4LP7%2BLAIeCaEPl3bhIJiGQG2PocpEJHIdvEtDPtrqog0XX%2BWQbEiV4EQsQ9QPoA%3D%3D
 PopC电影,http://www.kaniptv.cn/uadl.php?etoken=XDkyXVm2bhfZt8OGtGYOfJSNMaWAo%2FWXHC3S2rLBIuA%2BMJ2bWjQph1TmZDIBHv%2BL3cdz49lZMJZXls9g1CzJp%2Fi9rTWPw3ClTNLG0eAEvkmLRMEb5%2BtPo6lNR7j1DaWryFgmyKRmDcauEvUeMb4p%2B%2BVz%2FYPp2uVT1aOtUTYQynHxh9zxf8zeco2wGX%2B4DbLaPtuZw3qDI43dEMNfx1o3rXCxVV8tSWsQ7WvHiDVExvuHtlPD49kcX9Oy0U6Mr3bUxIDI9pXEMQJv%2BauBVzDys4p4LP7%2BLAIeCaEPl3bhIJiGQG2PocpEJHIdvEtDPtrqog0XX%2BWQbEiV4EQsQ9QPoA%3D%3D
 PopC电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
@@ -933,6 +936,7 @@ NOW ZooMoo,p3p://167.114.175.6:55331/65679bc200084412adeb40284be664e6
 Love Nature 4k,p3p://167.114.175.6:55331/655fa9280009c6278edfc1176731425f
 OneTV综合,p3p://167.114.175.6:55331/64d5c5550007c4d9744057ea09db782a
 KIX HD,p3p://167.114.175.6:55331/6444e9940006c03f3e688dba67767ffd
+PopC 电影,http://iptv.852851.xyz/l/puksKG0T8LI5v4Em4plpmh4bSkrewqoYp88IBT8hVZl08Yv2oI6QgZZgw4lFURi6/index.m3u8
 PopC 电影,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUW2lLbPLxX5K0GlafuBk91fb6hLkGFAJPYiYrDXIrSl8ZyInN2caScK9k4uBb2hHU3QcOVpDZM6zPF0dTtxJ-FRU-WN63JuPdzB1jDNuzYgq8ItCn0oyeLbculDTGln6CZncWyLIMRFyzJC5tPPSihqLc7JXbovD25D3K0ksPgdGkfeQOUMLZWEIyJC8XjGFRIdBq7YawVgToVlAwc89_C7SHItK8rTjqLStjnSCnEhE.m3u8?u=1756878715
 PopC 电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 PopC 电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/66669999/45.ts
@@ -1050,6 +1054,7 @@ TVB ASIA,https://tv.media4u.top:443/live/media4u/media4u/150443
 华丽翡翠台,https://cdn6.cc.cd/163189/jade
 华丽翡翠台,https://cdn.qd.je/163189/hlfct
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+PopC,http://iptv.852851.xyz/l/puksKG0T8LI5v4Em4plpmh4bSkrewqoYp88IBT8hVZl08Yv2oI6QgZZgw4lFURi6/index.m3u8
 PopC,http://pull-vivek.speedws.com/live/aaapopc.flv
 NOW星影,http://173.208.234.146/live/nowxy.m3u8
 NOW星影,https://live.kilvn.com/iptv.m3u"
