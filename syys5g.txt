@@ -907,6 +907,15 @@
 {"key":"猫眼","name":"🍀猫眼","type":1,"api":"https://api.maoyanapi.top/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"天亦","name":"🍀天亦┃YYDS","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/"},
 {
+      "key": "巨量资源网",
+      "name": "巨量资源网",
+      "type": 0,
+      "api": "https://api.juliang.live/api/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+{
       "key": "木耳",
       "name": "🦋木耳┃秒播",
       "type": 1,
