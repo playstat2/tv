@@ -1,5 +1,8 @@
 ﻿🐰不要相信打赏,#genre#
 半岛电视,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC高清电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 ﻿🐰欣赏港乐,#genre#
 ⬇️港乐翻唱⬇️,http://rihou.cc:555/tv/t
 林咏诗翻唱一,https://sns-video-default.xhscdn.com/stream/79/110/258/01ea637d87579a3b4f0370019f94a4a12b_258.mp4
