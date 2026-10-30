@@ -84,6 +84,7 @@ AsiaFM亚洲高清音乐台,https://lhttp.qingting.fm/live/15318341/64k.mp3
 智利Channel,https://v2.tustreaming.cl/chilechannel/index.m3u8
 智利UCV,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 西班牙DW,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+美亚电影(粤),http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
 天映经典,http://cdn10.123.rr.kg/163189/ccm/
 天映经典,https://live.kilvn.com/iptv.m3u"
